@@ -6,6 +6,12 @@
       <description>Last 10 notes on Guide to DevOps</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>AI로 Kubernetes를 더 쉽게 사용해보자! - Kubernetes 트러블슈팅을 쉽고 빠르게 할 수 있는 K8sGPT</title>
+    <link>https://guide-to-devops.github.io/blog/AI%EB%A1%9C-Kubernetes%EB%A5%BC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90!---Kubernetes-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85%EC%9D%84-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-K8sGPT</link>
+    <guid>https://guide-to-devops.github.io/blog/AI%EB%A1%9C-Kubernetes%EB%A5%BC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90!---Kubernetes-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85%EC%9D%84-%EC%89%BD%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-K8sGPT</guid>
+    <description>Kubernetes 운영의 어려움과 AI 도입 시 기대 효과 (많은 사람들을 눈물짓게 하는 Kubernetes입니다.) Kubernetes는 컨테이너 오케스트레이션 툴을 대표하는 강력한 도구이지만, 직접 운영하기란 상당히 복잡합니다. 특히 사용자들이 어려움을 겪는 경우를 꼽으면 아래와 같은데요.</description>
+    <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Observability와 AI의 만남: 더 나은 시스템 모니터링의 미래</title>
     <link>https://guide-to-devops.github.io/blog/Observability%EC%99%80-AI%EC%9D%98-%EB%A7%8C%EB%82%A8---%EB%8D%94-%EB%82%98%EC%9D%80-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%98-%EB%AF%B8%EB%9E%98</link>
     <guid>https://guide-to-devops.github.io/blog/Observability%EC%99%80-AI%EC%9D%98-%EB%A7%8C%EB%82%A8---%EB%8D%94-%EB%82%98%EC%9D%80-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%98-%EB%AF%B8%EB%9E%98</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/AWS-SNS%EC%99%80-SQS%EB%A5%BC-%EB%B9%84%EA%B5%90%ED%95%98%EB%A9%B0-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0</guid>
     <description>AWS에는 SNS(Simple Notification Service)라는 서비스와 SQS(Simple Queue Service)라는 서비스가 존재합니다. 두 서비스는 이름의 약자가 비슷하고 메시지를 전달 및 처리하는 데에 사용한다는 점이 동일해서 혼동하기 쉬운데요. 그래서 이번 글에서는 AWS SNS와 SQS에 대해 비교하며 살펴보도록 하겠습니다.</description>
     <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>AWS 클라우드의 모니터링 및 로깅 서비스 정리</title>
-    <link>https://guide-to-devops.github.io/blog/AWS-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%9D%98-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%B0%8F-%EB%A1%9C%EA%B9%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%95%EB%A6%AC</link>
-    <guid>https://guide-to-devops.github.io/blog/AWS-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%9D%98-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EB%B0%8F-%EB%A1%9C%EA%B9%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%95%EB%A6%AC</guid>
-    <description>AWS에는 수많은 서비스가 존재합니다. 데이터베이스부터 네트워크, 컴퓨팅, 로그 모니터링 등 폭 넓은 분야를 다루는 AWS 서비스는 그 수만 200개가 넘는데요. 같은 분야 안에 있는 서비스라 하더라도 쓰임새가 조금씩 달라서 각 차이를 명확히 알아야 올바르고 효율적으로 사용 가능합니다.</description>
-    <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
