@@ -6,6 +6,12 @@
       <description>Last 10 notes on Guide to DevOps</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>소규모 개발에도 비용 효율적으로 앱을 운영할 수 있는 서버리스 아키텍처 서비스 비교</title>
+    <link>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%EC%9A%B4%EC%98%81%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EA%B5%90</link>
+    <guid>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%EC%9A%B4%EC%98%81%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EA%B5%90</guid>
+    <description>☁️서버리스란? 서버리스(Serverless) 아키텍처는 개발자가 별도의 서버를 직접 관리하지 않고도 코드를 실행할 수 있는 클라우드 컴퓨팅 모델입니다. 전통적인 방식에서는 서버를 직접 구축, 유지보수, 모니터링해야 했지만, 서버리스 환경에서는 이러한 부담 없이 개발자가 코드 작성과 기능 구현에만 집중할 수 있는데요.</description>
+    <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>사이드 프로젝트와 소규모 개발 진행에도 활용 가능한 무료 CI/CD 툴 비교 추천</title>
     <link>https://guide-to-devops.github.io/blog/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%99%80-%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%ED%96%89%EC%97%90%EB%8F%84-%ED%99%9C%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%AC%B4%EB%A3%8C-CICD-%ED%88%B4-%EB%B9%84%EA%B5%90-%EC%B6%94%EC%B2%9C</link>
     <guid>https://guide-to-devops.github.io/blog/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%99%80-%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%ED%96%89%EC%97%90%EB%8F%84-%ED%99%9C%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%AC%B4%EB%A3%8C-CICD-%ED%88%B4-%EB%B9%84%EA%B5%90-%EC%B6%94%EC%B2%9C</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%EC%9D%98-%EA%B0%95%EC%9E%90,-Amazon-Kinesis-%EC%84%9C%EB%B9%84%EC%8A%A4-4%EC%A2%85-%EB%B9%84%EA%B5%90</guid>
     <description>Amazon Kinesis 제품군은 실시간 데이터 스트리밍 서비스의 대표 주자로, 대규모 데이터 흐름을 실시간으로 처리하고 분석할 수 있는 강력한 서비스들의 집합입니다. 이번 글에서는 Amazon Kinesis 제품군 서비스 4종의 특징과 사용 사례를 살펴보고 비교해보겠습니다.</description>
     <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Kubernetes v1.32: Memory Manager GA 단계 진입</title>
-    <link>https://guide-to-devops.github.io/blog/Kubernetes-v1.32---Memory-Manager-GA-%EC%A7%84%EC%9E%85%EA%B3%BC-%EC%A3%BC%EC%9A%94-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8</link>
-    <guid>https://guide-to-devops.github.io/blog/Kubernetes-v1.32---Memory-Manager-GA-%EC%A7%84%EC%9E%85%EA%B3%BC-%EC%A3%BC%EC%9A%94-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8</guid>
-    <description>Kubernetes는 매 릴리즈마다 새로운 기능과 개선 사항을 통해 발전하고 있습니다. 최근 v1.32 버전은 다양한 업데이트와 함께 Memory Manager 기능이 GA(General Availability) 단계로 진입된 것이 가장 주목받는 변화 중 하나인데요. 이번 뉴스레터에서는 Kubernetes v1.32의 주요 내용과 Memory Manager의 의미, 그리고 앞으로의 영향을 살펴보겠습니다.</description>
-    <pubDate>Sun, 22 Dec 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
