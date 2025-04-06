@@ -6,6 +6,12 @@
       <description>Last 10 notes on Guide for IT Explorers</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>내가 개발한 제품, 어떻게 돈을 벌 수 있을까? - 소규모 팀/1인 개발자를 위한 수익화 모델 비교</title>
+    <link>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EA%B3%BC-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%88%98%EC%9D%B5%ED%99%94-%EB%AA%A8%EB%8D%B8-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D</link>
+    <guid>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EA%B3%BC-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%88%98%EC%9D%B5%ED%99%94-%EB%AA%A8%EB%8D%B8-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D</guid>
+    <description>나만의 아이디어를 가지고 시작한 개발을 거치고 앱이나 서비스를 세상에 내놓는 것만으로도 정말 뿌듯한 일입니다. 하지만 그 뿌듯함만으로는 제품에 필요한 서버비를 내거나, 다음 기능을 개발할 때 마실 커피 한 잔을 살 수도 없죠. 오늘은 소규모 팀과 1인 개발자를 위한, 조금은 현실적인 이야기를 해볼까 합니다.</description>
+    <pubDate>Sun, 06 Apr 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>지금 개발한 서비스에서는 유저의 피드백을 관리하고 있나요? - 소규모/1인 개발에도 적용 가능한 유저 피드백 관리 방법</title>
     <link>https://guide-to-devops.github.io/blog/%EC%A7%80%EA%B8%88-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C%EB%8A%94-%EC%9C%A0%EC%A0%80%EC%9D%98-%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94---%EC%86%8C%EA%B7%9C%EB%AA%A8,-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9C%A0%EC%A0%80-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B4%80%EB%A6%AC</link>
     <guid>https://guide-to-devops.github.io/blog/%EC%A7%80%EA%B8%88-%EA%B0%9C%EB%B0%9C%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C%EB%8A%94-%EC%9C%A0%EC%A0%80%EC%9D%98-%ED%94%BC%EB%93%9C%EB%B0%B1%EC%9D%84-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94---%EC%86%8C%EA%B7%9C%EB%AA%A8,-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9C%A0%EC%A0%80-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B4%80%EB%A6%AC</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/Observability%EC%99%80-AI%EC%9D%98-%EB%A7%8C%EB%82%A8---%EB%8D%94-%EB%82%98%EC%9D%80-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%98-%EB%AF%B8%EB%9E%98</guid>
     <description>DevOps에서 Observability의 중요성 오늘날의 복잡한 소프트웨어 환경에서 Observability(관측가능성)는 시스템의 건강 상태를 이해하고 문제를 해결하는 데 핵심적인 역할을 합니다. Observability란 시스템에서 생성되는 로그, 메트릭, 트레이스 데이터를 활용해 내부 상태를 파악하는 과정을 말하는데요.</description>
     <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>2024 DevOps Dozen Awards - 2024년 가장 혁신적인 DevOps 툴은 무엇이었을까?</title>
-    <link>https://guide-to-devops.github.io/blog/2024-DevOps-Dozen-Awards---2024%EB%85%84-%EA%B0%80%EC%9E%A5-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B8-DevOps-%ED%88%B4%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EC%97%88%EC%9D%84%EA%B9%8C</link>
-    <guid>https://guide-to-devops.github.io/blog/2024-DevOps-Dozen-Awards---2024%EB%85%84-%EA%B0%80%EC%9E%A5-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B8-DevOps-%ED%88%B4%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EC%97%88%EC%9D%84%EA%B9%8C</guid>
-    <description>DevOps Dozen Awards란? DevOps Dozen Awards는 DevOps 커뮤니티와 업계에서 뛰어난 성과를 보인 도구, 플랫폼, 개인, 그리고 조직을 선정하여 축하하는 연례 시상 프로그램입니다. 다양한 부문에서 혁신과 탁월함을 보여준 수상자를 선정함과 동시에, DevOps 기술 발전과 최적화를 촉진하는 데 큰 의미를 갖고 있는데요.</description>
-    <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
