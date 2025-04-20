@@ -6,6 +6,12 @@
       <description>Last 10 notes on Guide for IT Explorers</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>소규모 팀과 1인 개발자를 위한 Google Analytics 활용 가이드</title>
+    <link>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Google-Analytics-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C</link>
+    <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Google-Analytics-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
+    <description>소규모 팀과 1인 개발자에게 앱 분석이 필수인 이유 소규모 팀이나 1인 개발자로 제품을 개발할 때 가장 많이 하는 고민은 무엇일까요? 아마 ‘사용자들이 이 제품을 만족해할까?‘일 것입니다. 일반 기업에 비해 시간과 리소스가 한정적이기 때문에, 이런 고민 끝에 내린 결정은 스스로의 생각에 의존한 경우가 많습니다.</description>
+    <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>데이터는 언제나 멋진 답을 알고 있지 - 소규모 팀과 1인 개발자를 위한 Google Analytics 활용 가이드</title>
     <link>https://guide-to-devops.github.io/blog/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94-%EC%96%B8%EC%A0%9C%EB%82%98-%EB%A9%8B%EC%A7%84-%EB%8B%B5%EC%9D%84-%EC%95%8C%EA%B3%A0-%EC%9E%88%EC%A7%80---%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EA%B3%BC-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Google-Analytics-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C</link>
     <guid>https://guide-to-devops.github.io/blog/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94-%EC%96%B8%EC%A0%9C%EB%82%98-%EB%A9%8B%EC%A7%84-%EB%8B%B5%EC%9D%84-%EC%95%8C%EA%B3%A0-%EC%9E%88%EC%A7%80---%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EA%B3%BC-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Google-Analytics-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
@@ -19,10 +25,22 @@
     <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>소규모 팀/1인 개발자를 위한 수익화 모델 비교</title>
+    <link>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%88%98%EC%9D%B5%ED%99%94-%EB%AA%A8%EB%8D%B8-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D</link>
+    <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%88%98%EC%9D%B5%ED%99%94-%EB%AA%A8%EB%8D%B8-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D</guid>
+    <description>나만의 아이디어를 가지고 시작한 개발을 거치고 앱이나 서비스를 세상에 내놓는 것만으로도 정말 뿌듯한 일입니다. 하지만 그 뿌듯함만으로는 제품에 필요한 서버비를 내거나, 다음 기능을 개발할 때 마실 커피 한 잔을 살 수도 없죠. 오늘은 소규모 팀과 1인 개발자를 위한, 조금은 현실적인 이야기를 해볼까 합니다.</description>
+    <pubDate>Sun, 06 Apr 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>소규모 팀/1인 개발자를 위한 수익화 모델 비교</title>
     <link>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EA%B3%BC-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%88%98%EC%9D%B5%ED%99%94-%EB%AA%A8%EB%8D%B8-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D</link>
     <guid>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EA%B3%BC-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%88%98%EC%9D%B5%ED%99%94-%EB%AA%A8%EB%8D%B8-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D</guid>
     <description>나만의 아이디어를 가지고 시작한 개발을 거치고 앱이나 서비스를 세상에 내놓는 것만으로도 정말 뿌듯한 일입니다. 하지만 그 뿌듯함만으로는 제품에 필요한 서버비를 내거나, 다음 기능을 개발할 때 마실 커피 한 잔을 살 수도 없죠. 오늘은 소규모 팀과 1인 개발자를 위한, 조금은 현실적인 이야기를 해볼까 합니다.</description>
     <pubDate>Sun, 06 Apr 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>소규모/1인 개발에도 적용 가능한 유저 피드백 관리 방법</title>
+    <link>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9C%A0%EC%A0%80-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B4%80%EB%A6%AC</link>
+    <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9C%A0%EC%A0%80-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B4%80%EB%A6%AC</guid>
+    <description>혹시 소규모 팀이나 1인 개발자로 앱이나 서비스를 제작하고 계신가요? 나만의 아이디어를 제품으로 실현하는 여정은 너무나 설레지만, 사실 막막할 때도 많으실 겁니다. 만들고 있는 제품에 새로운 기능을 추가하거나, 기존 기능을 개선할 때 특히 그런데요. 처음 제품을 기획할 땐 나의 아이디어가 개발에 있어 중심 역할을 했을지 몰라도, 그 제품이 사용자들에게 공개되고 있다면 사용자들의 목소리도 놓칠 수 없으니까요.</description>
+    <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>소규모/1인 개발에도 적용 가능한 유저 피드백 관리 방법</title>
     <link>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8,-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9C%A0%EC%A0%80-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B4%80%EB%A6%AC</link>
@@ -36,35 +54,17 @@
     <description>혹시 소규모 팀이나 1인 개발자로 앱이나 서비스를 제작하고 계신가요? 나만의 아이디어를 제품으로 실현하는 여정은 너무나 설레지만, 사실 막막할 때도 많으실 겁니다. 만들고 있는 제품에 새로운 기능을 추가하거나, 기존 기능을 개선할 때 특히 그런데요. 처음 제품을 기획할 땐 나의 아이디어가 개발에 있어 중심 역할을 했을지 몰라도, 그 제품이 사용자들에게 공개되고 있다면 사용자들의 목소리도 놓칠 수 없으니까요.</description>
     <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
+    <title>소규모 및 1인 개발에도 적용할 수 있는 SEO 알아보기</title>
+    <link>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-SEO-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0</link>
+    <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-SEO-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0</guid>
+    <description> SEO(Search Engine Optimization, 검색 엔진 최적화)는 이미 마케팅 업계를 넘어 누구나 한 번쯤 들어봤을 정도로 유명해진 개념입니다. 하지만 SEO라고 하면 기업에서 자신의 서비스의 접근성을 보다 높이기 위해 사용한다는 인식이 큰데요. 사실 SEO는 소규모 팀이나 1인 개발에서도 유용하게 활용할 수 있습니다.</description>
+    <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>SEO 최적화는 기업만 하는 게 아니다? - 소규모 및 1인 개발에도 적용할 수 있는 SEO 알아보기</title>
     <link>https://guide-to-devops.github.io/blog/SEO-%EC%B5%9C%EC%A0%81%ED%99%94%EB%8A%94-%EA%B8%B0%EC%97%85%EB%A7%8C-%ED%95%98%EB%8A%94-%EA%B2%8C-%EC%95%84%EB%8B%88%EB%8B%A4---%EC%86%8C%EA%B7%9C%EB%AA%A8-%EB%B0%8F-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-SEO-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0</link>
     <guid>https://guide-to-devops.github.io/blog/SEO-%EC%B5%9C%EC%A0%81%ED%99%94%EB%8A%94-%EA%B8%B0%EC%97%85%EB%A7%8C-%ED%95%98%EB%8A%94-%EA%B2%8C-%EC%95%84%EB%8B%88%EB%8B%A4---%EC%86%8C%EA%B7%9C%EB%AA%A8-%EB%B0%8F-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-SEO-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0</guid>
     <description> SEO(Search Engine Optimization, 검색 엔진 최적화)는 이미 마케팅 업계를 넘어 누구나 한 번쯤 들어봤을 정도로 유명해진 개념입니다. 하지만 SEO라고 하면 기업에서 자신의 서비스의 접근성을 보다 높이기 위해 사용한다는 인식이 큰데요. 사실 SEO는 소규모 팀이나 1인 개발에서도 유용하게 활용할 수 있습니다.</description>
     <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>소규모 및 1인 개발에도 적용할 수 있는 SEO 알아보기</title>
-    <link>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EB%B0%8F-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-SEO-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0</link>
-    <guid>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EB%B0%8F-1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-SEO-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0</guid>
-    <description> SEO(Search Engine Optimization, 검색 엔진 최적화)는 이미 마케팅 업계를 넘어 누구나 한 번쯤 들어봤을 정도로 유명해진 개념입니다. 하지만 SEO라고 하면 기업에서 자신의 서비스의 접근성을 보다 높이기 위해 사용한다는 인식이 큰데요. 사실 SEO는 소규모 팀이나 1인 개발에서도 유용하게 활용할 수 있습니다.</description>
-    <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>AI 도구로 소규모 개발의 생산성을 극대화할 수 있는 방법들</title>
-    <link>https://guide-to-devops.github.io/blog/AI-%EB%8F%84%EA%B5%AC%EB%A1%9C-%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EA%B7%B9%EB%8C%80%ED%99%94%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4</link>
-    <guid>https://guide-to-devops.github.io/blog/AI-%EB%8F%84%EA%B5%AC%EB%A1%9C-%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EA%B7%B9%EB%8C%80%ED%99%94%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4</guid>
-    <description>AI의 발전으로 서비스 개발 속도가 폭발적으로 증가하고 있습니다. 그로 인해 개인이 사이드 프로젝트 등으로 서비스를 직접 개발하는 경우가 증가한 건 물론, 규모가 큰 기업 내에서 소규모 팀을 꾸려 새로운 MVP 서비스를 선보이는 경우도 많아졌는데요. 이런 소규모 또는 1인으로 서비스를 개발한다는 것은 코딩만 하고 끝나는 것이 아닙니다.</description>
-    <pubDate>Sun, 16 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>소규모 개발에도 비용 효율적으로 앱을 운영할 수 있는 서버리스 아키텍처 서비스 비교</title>
-    <link>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%EC%9A%B4%EC%98%81%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EA%B5%90</link>
-    <guid>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%EC%9A%B4%EC%98%81%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EA%B5%90</guid>
-    <description>☁️서버리스란? 서버리스(Serverless) 아키텍처는 개발자가 별도의 서버를 직접 관리하지 않고도 코드를 실행할 수 있는 클라우드 컴퓨팅 모델입니다. 전통적인 방식에서는 서버를 직접 구축, 유지보수, 모니터링해야 했지만, 서버리스 환경에서는 이러한 부담 없이 개발자가 코드 작성과 기능 구현에만 집중할 수 있는데요.</description>
-    <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>사이드 프로젝트와 소규모 개발 진행에도 활용 가능한 무료 CI/CD 툴 비교 추천</title>
-    <link>https://guide-to-devops.github.io/blog/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%99%80-%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%ED%96%89%EC%97%90%EB%8F%84-%ED%99%9C%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%AC%B4%EB%A3%8C-CICD-%ED%88%B4-%EB%B9%84%EA%B5%90-%EC%B6%94%EC%B2%9C</link>
-    <guid>https://guide-to-devops.github.io/blog/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%99%80-%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%ED%96%89%EC%97%90%EB%8F%84-%ED%99%9C%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%AC%B4%EB%A3%8C-CICD-%ED%88%B4-%EB%B9%84%EA%B5%90-%EC%B6%94%EC%B2%9C</guid>
-    <description>보통 CI/CD(지속적 통합/지속적 배포)라고 하면, 많은 사람들이 함께 개발하는 대규모 프로젝트에서 사용한다는 느낌이 인식이 강한데요. 하지만 소규모 프로젝트나 사이드 프로젝트를 개발하더라도 CI/CD를 도입하면 배포 과정에서 발생할 수 있는 휴먼 에러를 줄이고 안정적인 개발 및 운영이 가능하다는 사실, 알고 계셨나요? 프로젝트 성격에 따라 빌드 테스트부터 유닛 테스트, 배포 작업까지 자동화할 수 있기 때문에, 안정적인 프로젝트 진행을 원한다면 개발 초기에 CI/CD 도입을 고려하는 것이 좋습니다.</description>
-    <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
