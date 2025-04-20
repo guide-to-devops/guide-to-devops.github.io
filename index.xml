@@ -6,6 +6,12 @@
       <description>Last 10 notes on Guide for IT Explorers</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>소규모 팀에게도 중요한 Observability 알아보기</title>
+    <link>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EC%97%90%EA%B2%8C%EB%8F%84-%EC%A4%91%EC%9A%94%ED%95%9C-Observability-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0</link>
+    <guid>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EC%97%90%EA%B2%8C%EB%8F%84-%EC%A4%91%EC%9A%94%ED%95%9C-Observability-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0</guid>
+    <description>규모가 작은 팀일수록 ‘감’은 위험하다! - Observability가 필수인 진짜 이유 소규모 팀으로 서비스를 개발하고 운영하기란 쉽지 않습니다. 특히 배포된 서비스에 무슨 문제라도 발생하면… 새로운 기능 개발하기에도 바쁜데 문제 수습하느라 정신없게 되는 거죠. 그래서 소규모 팀이나 1인 개발자는 제품을 만들 때 미리 대비책과 시스템도 구축해야 합니다.</description>
+    <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>소규모 팀과 1인 개발자를 위한 Google Analytics 활용 가이드</title>
     <link>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Google-Analytics-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C</link>
     <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Google-Analytics-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/AI-%EB%8F%84%EA%B5%AC%EB%A1%9C-%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EA%B7%B9%EB%8C%80%ED%99%94%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4</guid>
     <description>AI의 발전으로 서비스 개발 속도가 폭발적으로 증가하고 있습니다. 그로 인해 개인이 사이드 프로젝트 등으로 서비스를 직접 개발하는 경우가 증가한 건 물론, 규모가 큰 기업 내에서 소규모 팀을 꾸려 새로운 MVP 서비스를 선보이는 경우도 많아졌는데요. 이런 소규모 또는 1인으로 서비스를 개발한다는 것은 코딩만 하고 끝나는 것이 아닙니다.</description>
     <pubDate>Sun, 16 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>소규모 개발에도 비용 효율적으로 앱을 운영할 수 있는 서버리스 아키텍처 서비스 비교</title>
-    <link>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%EC%9A%B4%EC%98%81%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EA%B5%90</link>
-    <guid>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%EC%9A%B4%EC%98%81%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EA%B5%90</guid>
-    <description>☁️서버리스란? 서버리스(Serverless) 아키텍처는 개발자가 별도의 서버를 직접 관리하지 않고도 코드를 실행할 수 있는 클라우드 컴퓨팅 모델입니다. 전통적인 방식에서는 서버를 직접 구축, 유지보수, 모니터링해야 했지만, 서버리스 환경에서는 이러한 부담 없이 개발자가 코드 작성과 기능 구현에만 집중할 수 있는데요.</description>
-    <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
