@@ -6,12 +6,6 @@
       <description>Last 10 notes on Guide for IT Explorers</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>컨테이너 이미지를 보안 관점에서 &#039;잘&#039; 만드는 법</title>
-    <link>https://guide-to-devops.github.io/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B3%B4%EC%95%88-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-'%EC%9E%98'-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95</link>
-    <guid>https://guide-to-devops.github.io/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B3%B4%EC%95%88-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-'%EC%9E%98'-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95</guid>
-    <description>💿컨테이너 이미지를 ‘잘’ 만들어야 하는 이유 이제 컨테이너 이미지는 우리가 개발 프로젝트를 진행할 때 쉽게 접하는 개념이 되었습니다. 독립된 환경 안에서 특정한 애플리케이션이 실행되는 걸 보장해주기 때문에 Kubernetes나 퍼블릭 클라우드(AWS, GCP 등)를 사용한다면 거의 필수 요소가 되었죠.</description>
-    <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-  </item><item>
     <title>1인 개발자/소규모 팀이라면 반드시 알아야 할 UI/UX 원칙 (2)</title>
     <link>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-UIUX-%EC%9B%90%EC%B9%99-(2)</link>
     <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-UIUX-%EC%9B%90%EC%B9%99-(2)</guid>
@@ -65,6 +59,12 @@
     <guid>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%EC%9A%B4%EC%98%81%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EA%B5%90</guid>
     <description>☁️서버리스란? 서버리스(Serverless) 아키텍처는 개발자가 별도의 서버를 직접 관리하지 않고도 코드를 실행할 수 있는 클라우드 컴퓨팅 모델입니다. 전통적인 방식에서는 서버를 직접 구축, 유지보수, 모니터링해야 했지만, 서버리스 환경에서는 이러한 부담 없이 개발자가 코드 작성과 기능 구현에만 집중할 수 있는데요.</description>
     <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>사이드 프로젝트와 소규모 개발 진행에도 활용 가능한 무료 CI/CD 툴 비교 추천</title>
+    <link>https://guide-to-devops.github.io/blog/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%99%80-%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%ED%96%89%EC%97%90%EB%8F%84-%ED%99%9C%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%AC%B4%EB%A3%8C-CICD-%ED%88%B4-%EB%B9%84%EA%B5%90-%EC%B6%94%EC%B2%9C</link>
+    <guid>https://guide-to-devops.github.io/blog/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%99%80-%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C-%EC%A7%84%ED%96%89%EC%97%90%EB%8F%84-%ED%99%9C%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%AC%B4%EB%A3%8C-CICD-%ED%88%B4-%EB%B9%84%EA%B5%90-%EC%B6%94%EC%B2%9C</guid>
+    <description>보통 CI/CD(지속적 통합/지속적 배포)라고 하면, 많은 사람들이 함께 개발하는 대규모 프로젝트에서 사용한다는 느낌이 인식이 강한데요. 하지만 소규모 프로젝트나 사이드 프로젝트를 개발하더라도 CI/CD를 도입하면 배포 과정에서 발생할 수 있는 휴먼 에러를 줄이고 안정적인 개발 및 운영이 가능하다는 사실, 알고 계셨나요? 프로젝트 성격에 따라 빌드 테스트부터 유닛 테스트, 배포 작업까지 자동화할 수 있기 때문에, 안정적인 프로젝트 진행을 원한다면 개발 초기에 CI/CD 도입을 고려하는 것이 좋습니다.</description>
+    <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
