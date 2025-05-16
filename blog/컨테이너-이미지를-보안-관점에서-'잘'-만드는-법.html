@@ -201,7 +201,7 @@ pre:hover > .expand-button {
 <p>Dockerfile에 <code>RUN</code> 지시어로 <strong>root가 아닌 유저를 생성</strong>하고 <code>USER</code> 지시어로 <strong>생성한 사용자를 지정</strong>하면 해당 유저의 권한으로 이미지 내 명령어를 실행하도록 설정할 수 있습니다. 좀 더 쉬운 이해를 위해 아래와 같이 Dockerfile 예시 코드를 준비했습니다.</p>
 <figure data-rehype-pretty-code-figure><pre style="--shiki-light:#e1e4e8;--shiki-dark:#e1e4e8;--shiki-light-bg:#24292e;--shiki-dark-bg:#24292e;" tabindex="0" data-language="Dockerfile" data-theme="github-dark github-dark"><code data-language="Dockerfile" data-theme="github-dark github-dark" style="display:grid;"><span data-line><span># UID 1234 및 GID 1234를 가진 새로운 사용자(customuser) 생성</span></span>
 <span data-line><span>RUN groupadd -g 1234 customgroup &amp;&amp;</span></span>
-<span data-line><span>	\ useradd -m -u 1234 -g customgroup customuser</span></span>
+<span data-line><span>\ useradd -m -u 1234 -g customgroup customuser</span></span>
 <span data-line> </span>
 <span data-line><span># 해당 이미지의 사용자를 customuser로 변경</span></span>
 <span data-line><span>USER customuser</span></span></code></pre></figure>
