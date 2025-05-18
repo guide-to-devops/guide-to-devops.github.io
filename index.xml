@@ -6,6 +6,12 @@
       <description>Last 10 notes on Guide for IT Explorers</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>컨테이너 이미지를 효율성 관점에서 &#039;잘&#039; 만드는 법</title>
+    <link>https://guide-to-devops.github.io/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%ED%9A%A8%EC%9C%A8%EC%84%B1-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-'%EC%9E%98'-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95</link>
+    <guid>https://guide-to-devops.github.io/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%ED%9A%A8%EC%9C%A8%EC%84%B1-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-'%EC%9E%98'-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95</guid>
+    <description>💫효율성 관점에서 잘 만든 컨테이너 이미지란 무엇일까? 지난 글에서 보안 관점에서 잘 만든 컨테이너 이미지에 대해 살펴봤는데요. 이번엔 효율적인 컨테이너 이미지를 만드는 방법에 대해 알아보겠습니다. 먼저 효율성 관점에서 요구되는 사항을 정리해보겠습니다. 컨테이너 이미지 크기 경량화 컨테이너 이미지 레이어 최소화 컨테이너 이미지 레이어 최적화 이미지 크기 경량화는 그 뜻이 금방 이해가 되는데… 컨테이너 이미지 레이어는 뭘까요? 지금 낯설게 느껴져도 괜찮습니다.</description>
+    <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>컨테이너 이미지를 보안 관점에서 &#039;잘&#039; 만드는 법</title>
     <link>https://guide-to-devops.github.io/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B3%B4%EC%95%88-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-'%EC%9E%98'-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95</link>
     <guid>https://guide-to-devops.github.io/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B3%B4%EC%95%88-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-'%EC%9E%98'-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/AI-%EB%8F%84%EA%B5%AC%EB%A1%9C-%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%9D%98-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EA%B7%B9%EB%8C%80%ED%99%94%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4</guid>
     <description>AI의 발전으로 서비스 개발 속도가 폭발적으로 증가하고 있습니다. 그로 인해 개인이 사이드 프로젝트 등으로 서비스를 직접 개발하는 경우가 증가한 건 물론, 규모가 큰 기업 내에서 소규모 팀을 꾸려 새로운 MVP 서비스를 선보이는 경우도 많아졌는데요. 이런 소규모 또는 1인으로 서비스를 개발한다는 것은 코딩만 하고 끝나는 것이 아닙니다.</description>
     <pubDate>Sun, 16 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>소규모 개발에도 비용 효율적으로 앱을 운영할 수 있는 서버리스 아키텍처 서비스 비교</title>
-    <link>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%EC%9A%B4%EC%98%81%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EA%B5%90</link>
-    <guid>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%EC%9A%B4%EC%98%81%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B9%84%EA%B5%90</guid>
-    <description>☁️서버리스란? 서버리스(Serverless) 아키텍처는 개발자가 별도의 서버를 직접 관리하지 않고도 코드를 실행할 수 있는 클라우드 컴퓨팅 모델입니다. 전통적인 방식에서는 서버를 직접 구축, 유지보수, 모니터링해야 했지만, 서버리스 환경에서는 이러한 부담 없이 개발자가 코드 작성과 기능 구현에만 집중할 수 있는데요.</description>
-    <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
