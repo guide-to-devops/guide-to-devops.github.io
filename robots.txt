@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guide-to-devops.github.io/sitemap.xml
