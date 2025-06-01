@@ -6,6 +6,12 @@
       <description>Last 10 notes on Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Pulumi를 활용하여 Python 언어로 AWS 리소스 관리하기</title>
+    <link>https://guide-to-devops.github.io/blog/Pulumi%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-Python-%EC%96%B8%EC%96%B4%EB%A1%9C-AWS-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0---%EB%B0%94%EB%A1%9C-%EB%94%B0%EB%9D%BC%ED%95%B4%EB%B3%BC-%EC%88%98-%EC%9E%88%EB%8A%94-Pulumi-%EB%8F%84%EC%9E%85-%ED%95%B5%EC%8B%AC-%EA%B0%80%EC%9D%B4%EB%93%9C</link>
+    <guid>https://guide-to-devops.github.io/blog/Pulumi%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-Python-%EC%96%B8%EC%96%B4%EB%A1%9C-AWS-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0---%EB%B0%94%EB%A1%9C-%EB%94%B0%EB%9D%BC%ED%95%B4%EB%B3%BC-%EC%88%98-%EC%9E%88%EB%8A%94-Pulumi-%EB%8F%84%EC%9E%85-%ED%95%B5%EC%8B%AC-%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
+    <description>우리가 지난 글에서 IaC가 필요한 이유와 Pulumi의 동작 방식까지 살펴봤는데요. 이번 글에서는 Pulumi를 활용해서 AWS SQS를 배포하는 과정을 통해 Pulumi의 핵심 워크플로우를 정리해봤습니다. 제가 직접 테스트하면서 작성한 가이드이니, IaC와 Pulumi에 관심 있으시다면 꼭 확인해주세요! 1️⃣Pulumi 설치 및 AWS 계정 설정 Pulumi를 사용하기 위해서는 먼저 사용 중인 PC에 Pulumi CLI를 설치하고, AWS 계정 설정을 마쳐야 합니다.</description>
+    <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>우리 팀에 맞는 IaC 툴 선택하는 법 &amp; Pulumi 소개</title>
     <link>https://guide-to-devops.github.io/blog/IaC-%ED%88%B4,-%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C%EB%8F%84-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C---%EC%9A%B0%EB%A6%AC-%ED%8C%80%EC%97%90-%EB%A7%9E%EB%8A%94-IaC-%ED%88%B4-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EB%B2%95--and--Pulumi-%EC%86%8C%EA%B0%9C</link>
     <guid>https://guide-to-devops.github.io/blog/IaC-%ED%88%B4,-%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C%EB%8F%84-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C---%EC%9A%B0%EB%A6%AC-%ED%8C%80%EC%97%90-%EB%A7%9E%EB%8A%94-IaC-%ED%88%B4-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EB%B2%95--and--Pulumi-%EC%86%8C%EA%B0%9C</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9C%A0%EC%A0%80-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B4%80%EB%A6%AC</guid>
     <description>혹시 소규모 팀이나 1인 개발자로 앱이나 서비스를 제작하고 계신가요? 나만의 아이디어를 제품으로 실현하는 여정은 너무나 설레지만, 사실 막막할 때도 많으실 겁니다. 만들고 있는 제품에 새로운 기능을 추가하거나, 기존 기능을 개선할 때 특히 그런데요. 처음 제품을 기획할 땐 나의 아이디어가 개발에 있어 중심 역할을 했을지 몰라도, 그 제품이 사용자들에게 공개되고 있다면 사용자들의 목소리도 놓칠 수 없으니까요.</description>
     <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>소규모 및 1인 개발에도 적용할 수 있는 SEO 알아보기</title>
-    <link>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-SEO-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0</link>
-    <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-SEO-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0</guid>
-    <description> SEO(Search Engine Optimization, 검색 엔진 최적화)는 이미 마케팅 업계를 넘어 누구나 한 번쯤 들어봤을 정도로 유명해진 개념입니다. 하지만 SEO라고 하면 기업에서 자신의 서비스의 접근성을 보다 높이기 위해 사용한다는 인식이 큰데요. 사실 SEO는 소규모 팀이나 1인 개발에서도 유용하게 활용할 수 있습니다.</description>
-    <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
