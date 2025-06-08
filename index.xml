@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>minikube로 Kubernetes 클러스터 구축하기</title>
+    <link>https://guide-to-devops.github.io/blog/Minikube-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C</link>
+    <guid>https://guide-to-devops.github.io/blog/Minikube-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
+    <description>Kubernetes는 이미 클라우드 환경의 표준으로 자리잡았고, 많은 기업과 팀에서 직접 서버에 Kubernetes 클러스터를 구죽하거나 관리형 Kubernetes 서비스를 이용하고 있습니다. 그래서 많은 분들이 Kubernetes와 클라우드 네이티브 툴에 관심을 가지고 계시지만, 여전히 진입장벽은 높은 편인데요.</description>
+    <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Pulumi를 활용하여 Python 언어로 AWS 리소스 관리하기</title>
     <link>https://guide-to-devops.github.io/blog/Pulumi%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-Python-%EC%96%B8%EC%96%B4%EB%A1%9C-AWS-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0---%EB%B0%94%EB%A1%9C-%EB%94%B0%EB%9D%BC%ED%95%B4%EB%B3%BC-%EC%88%98-%EC%9E%88%EB%8A%94-Pulumi-%EB%8F%84%EC%9E%85-%ED%95%B5%EC%8B%AC-%EA%B0%80%EC%9D%B4%EB%93%9C</link>
     <guid>https://guide-to-devops.github.io/blog/Pulumi%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-Python-%EC%96%B8%EC%96%B4%EB%A1%9C-AWS-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0---%EB%B0%94%EB%A1%9C-%EB%94%B0%EB%9D%BC%ED%95%B4%EB%B3%BC-%EC%88%98-%EC%9E%88%EB%8A%94-Pulumi-%EB%8F%84%EC%9E%85-%ED%95%B5%EC%8B%AC-%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%88%98%EC%9D%B5%ED%99%94-%EB%AA%A8%EB%8D%B8-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D</guid>
     <description>나만의 아이디어를 가지고 시작한 개발을 거치고 앱이나 서비스를 세상에 내놓는 것만으로도 정말 뿌듯한 일입니다. 하지만 그 뿌듯함만으로는 제품에 필요한 서버비를 내거나, 다음 기능을 개발할 때 마실 커피 한 잔을 살 수도 없죠. 오늘은 소규모 팀과 1인 개발자를 위한, 조금은 현실적인 이야기를 해볼까 합니다.</description>
     <pubDate>Sun, 06 Apr 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>소규모/1인 개발에도 적용 가능한 유저 피드백 관리 방법</title>
-    <link>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9C%A0%EC%A0%80-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B4%80%EB%A6%AC</link>
-    <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%97%90%EB%8F%84-%EC%A0%81%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9C%A0%EC%A0%80-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B4%80%EB%A6%AC</guid>
-    <description>혹시 소규모 팀이나 1인 개발자로 앱이나 서비스를 제작하고 계신가요? 나만의 아이디어를 제품으로 실현하는 여정은 너무나 설레지만, 사실 막막할 때도 많으실 겁니다. 만들고 있는 제품에 새로운 기능을 추가하거나, 기존 기능을 개선할 때 특히 그런데요. 처음 제품을 기획할 땐 나의 아이디어가 개발에 있어 중심 역할을 했을지 몰라도, 그 제품이 사용자들에게 공개되고 있다면 사용자들의 목소리도 놓칠 수 없으니까요.</description>
-    <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
