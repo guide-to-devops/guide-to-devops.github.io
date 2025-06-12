@@ -147,10 +147,10 @@ pre:hover > .expand-button {
 <p>Kubernetes를 경험하고 싶거나 로컬에서 가볍게 테스트하고 싶은 분들에겐 부담이 될 수밖에 없죠.</p>
 <p>이런 문제를 해결하기 위해 다양한 툴이 등장했는데요. 그 중에서도 제가 이번에 소개할 툴은 바로, <strong>minikube</strong>입니다.</p>
 <p><img src="https://i.imgur.com/Gakzwtj.png" alt/></p>
-<h2 id="minikube가-kubernetes-실습-및-테스트에-탁월한-이유">👍minikube가 Kubernetes 실습 및 테스트에 탁월한 이유<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#minikube가-kubernetes-실습-및-테스트에-탁월한-이유" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="minikube가-kubernetes-실습-및-테스트에-탁월한-이유"><strong>👍minikube가 Kubernetes 실습 및 테스트에 탁월한 이유</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#minikube가-kubernetes-실습-및-테스트에-탁월한-이유" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
 <p>minikube는 개발자의 로컬 PC에서 한 개 또는 여러 개의 노드로 구성된 Kubernetes 클러스터를 빠르고 쉽게 설치할 수 있도록 도와주는 툴입니다.</p>
-<p>이미 비슷한 역할을 하는 툴이 여럿 존재합니다. 그치만 제가 Kubernetes 실습과 테스트에 minikube를 추천하는 이유는 무엇일까요?</p>
-<p>1️⃣ <strong>복잡한 설정 없이 몇 가지 명령어만으로 실제 Kubernetes와 유사한 환경을 구성 및 관리</strong>할 수 있기 때문입니다.</p>
+<p>minikube의 장점을 5가지로 정리하면 아래와 같습니다.</p>
+<p>1️⃣ <strong>복잡한 설정 없이 몇 가지 명령어만으로 실제 Kubernetes와 유사한 환경을 구성 및 관리</strong>할 수 있습니다.</p>
 <p>사용자가 즉시 Kubernetes 관련 실습이나 테스트를 시작할 수 있어 편리합니다.</p>
 <p>2️⃣ AWS, GCP와 같은 클라우드 제공사의 관리형 Kubernetes 서비스는 학습 용도로 사용해도 비용이 발생할 수 있지만, <strong>minikube는 로컬 환경에서 구동되므로 비용이 발생하지 않습니다.</strong></p>
 <p>따라서 비용 걱정 없이 다양한 Kubernetes 기능이나 Helm 같은 클라우드 네이티브 툴을 마음껏 실험하고 학습할 수 있죠.</p>
@@ -163,10 +163,16 @@ pre:hover > .expand-button {
 <p>이렇게 많은 장점을 가진 minikube를 얼른 사용하고 싶은 마음이 드실 수 있는데요.</p>
 <p>그 전에, 지금까지는 장점에 대해 알아봤으니 실제로 minikube를 설치하기 전에 유의해야 할 점도 알아보겠습니다.</p>
 <hr/>
-<h2 id="minikube-설치-전-유의해야-할-점">❗minikube 설치 전 유의해야 할 점<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#minikube-설치-전-유의해야-할-점" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="minikube-설치-전-유의해야-할-점"><strong>❗minikube 설치 전 유의해야 할 점</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#minikube-설치-전-유의해야-할-점" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><img src="https://i.imgur.com/VK8Y1gy.png" alt/></p>
 <h3 id="minikube-최소-사양">minikube 최소 사양<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#minikube-최소-사양" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
 <p>minikube는 가상 머신 또는 컨테이너 환경에서 Kubernetes 클러스터를 새로 구축하기 때문에 일정 수준 이상의 시스템 자원이 필요합니다.</p>
-<p>공식 사이트에 명시된 정보를 기반으로 알려드리자면, 기본적으로 <strong>최소 2 CPU 코어와 2GB 이상의 메모리, 20GB 이상의 디스크 여유 공간이 권장</strong>됩니다.</p>
+<p>공식 사이트에 명시된 정보를 기반으로 알려드리자면, 단일 노드 기준으로 권장되는 최소 사양은 아래와 같습니다.</p>
+<ul>
+<li>최소 <strong>2 CPU</strong> 코어</li>
+<li>최소 <strong>2GB 이상</strong>의 <strong>메모리</strong></li>
+<li><strong>20GB 이상</strong>의 <strong>디스크 여유 공간</strong></li>
+</ul>
 <h3 id="minikube가-지원하는-가상화-툴이-설치되어-있는지-확인">minikube가 지원하는 가상화 툴이 설치되어 있는지 확인<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#minikube가-지원하는-가상화-툴이-설치되어-있는지-확인" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
 <p>minikube는 <strong>여러 운영체제의 VM이나 컨테이너 환경에서 동작하기 위해 다양한 가상화 툴에 대응되는 드라이버가 준비</strong>되어 있습니다.</p>
 <p>운영체제에 따라 minikube가 사용 가능한 가상화 툴이 다른데요. 각 운영체제별로 minikube가 지원하는 대표적인 가상화 툴을 정리하면 아래와 같습니다.</p>
@@ -253,7 +259,7 @@ pre:hover > .expand-button {
 <p>그럼 아래와 같이 해당 클러스터를 구성하는 노드가 중지되었다는 안내 메시지가 표시됩니다.</p>
 <p><img src="https://i.imgur.com/RjvqL4E.png" alt/></p>
 <hr/>
-<h2 id="마무리">🔭마무리<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#마무리" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h2 id="마무리"><strong>🔭마무리</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#마무리" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
 <p>지금까지 Kubernetes 실습과 테스트에 minikube가 유리한 이유와 설치 전 유의할 점, minikube의 기본적인 설치 및 사용 방법까지 알아봤는데요.</p>
 <p>minikube에 대해 알고 있었지만 아직 설치하거나 사용해보지 않았던 분들에게도 이 가이드가 도움이 될 거라 생각합니다.</p>
 <p>minikube를 설치하고 클러스터 생성과 관리까지 해봤으니, 실제로 이 클러스터 위에서 Kubernetes 실습이나 클라우드 네이티브 툴을 사용해봐야겠죠?</p>
