@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>minikube 환경에서 따라해보는 Kubernetes Ingress 실습</title>
+    <link>https://guide-to-devops.github.io/blog/minikube-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%94%B0%EB%9D%BC%ED%95%B4%EB%B3%B4%EB%8A%94-Kubernetes-Ingress-%EC%8B%A4%EC%8A%B5</link>
+    <guid>https://guide-to-devops.github.io/blog/minikube-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%94%B0%EB%9D%BC%ED%95%B4%EB%B3%B4%EB%8A%94-Kubernetes-Ingress-%EC%8B%A4%EC%8A%B5</guid>
+    <description>우리는 지난 글에서 minikube에 대해 살펴봤습니다. minikube를 왜 써야 하는지, minikube를 사용하기 전 유의해야 할 점, 그리고 minikube를 직접 설치하는 것까지 같이 해봤는데요. minikube를 설치만 하고 끝내기는 너무 아쉽죠? 그래서 이번엔 minikube로 생성한 Kubernetes 클러스터 위에서 Ingress를 활용한 Nginx 앱 배포 및 노출 실습을 진행해보려 합니다.</description>
+    <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>minikube로 Kubernetes 클러스터 구축하기</title>
     <link>https://guide-to-devops.github.io/blog/Minikube-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C</link>
     <guid>https://guide-to-devops.github.io/blog/Minikube-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Google-Analytics-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
     <description>소규모 팀과 1인 개발자에게 앱 분석이 필수인 이유 소규모 팀이나 1인 개발자로 제품을 개발할 때 가장 많이 하는 고민은 무엇일까요? 아마 ‘사용자들이 이 제품을 만족해할까?‘일 것입니다. 일반 기업에 비해 시간과 리소스가 한정적이기 때문에, 이런 고민 끝에 내린 결정은 스스로의 생각에 의존한 경우가 많습니다.</description>
     <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>소규모 팀/1인 개발자를 위한 수익화 모델 비교</title>
-    <link>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%88%98%EC%9D%B5%ED%99%94-%EB%AA%A8%EB%8D%B8-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D</link>
-    <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%88%98%EC%9D%B5%ED%99%94-%EB%AA%A8%EB%8D%B8-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D</guid>
-    <description>나만의 아이디어를 가지고 시작한 개발을 거치고 앱이나 서비스를 세상에 내놓는 것만으로도 정말 뿌듯한 일입니다. 하지만 그 뿌듯함만으로는 제품에 필요한 서버비를 내거나, 다음 기능을 개발할 때 마실 커피 한 잔을 살 수도 없죠. 오늘은 소규모 팀과 1인 개발자를 위한, 조금은 현실적인 이야기를 해볼까 합니다.</description>
-    <pubDate>Sun, 06 Apr 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
