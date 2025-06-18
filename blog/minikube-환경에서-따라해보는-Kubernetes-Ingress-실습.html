@@ -173,8 +173,7 @@ pre:hover > .expand-button {
 <p>지난 글에서 생성했던 minikube 클러스터를 <code>minikube start</code> 명령어로 작동시킨 뒤, <code>minikube addons {minikube 클러스터 이름} list</code> 명령어로 현재 minikube에 설치된 애드온과 사용 가능한 애드온 목록을 확인해봅니다.</p>
 <p><img src="https://i.imgur.com/oWhWh3X.png" alt/></p>
 <p>이미지에 표시된 것처럼, 현재 minikube 클러스터에는 Ingress 애드온이 아직 비활성화(<code>disabled</code>) 상태인데요. 아래 명령어로 Ingress 애드온을 활성화해보겠습니다.</p>
-<pre><code>minikube addons -p {minikube 클러스터 이름} enable ingress
-</code></pre>
+<figure data-rehype-pretty-code-figure><pre style="--shiki-light:#e1e4e8;--shiki-dark:#e1e4e8;--shiki-light-bg:#24292e;--shiki-dark-bg:#24292e;" tabindex="0" data-language="shell" data-theme="github-dark github-dark"><code data-language="shell" data-theme="github-dark github-dark" style="display:grid;"><span data-line><span style="--shiki-light:#B392F0;--shiki-dark:#B392F0;">minikube</span><span style="--shiki-light:#9ECBFF;--shiki-dark:#9ECBFF;"> addons</span><span style="--shiki-light:#79B8FF;--shiki-dark:#79B8FF;"> -p</span><span style="--shiki-light:#9ECBFF;--shiki-dark:#9ECBFF;"> {minikube</span><span style="--shiki-light:#9ECBFF;--shiki-dark:#9ECBFF;"> 클러스터</span><span style="--shiki-light:#9ECBFF;--shiki-dark:#9ECBFF;"> 이름}</span><span style="--shiki-light:#9ECBFF;--shiki-dark:#9ECBFF;"> enable</span><span style="--shiki-light:#9ECBFF;--shiki-dark:#9ECBFF;"> ingress</span></span></code></pre></figure>
 <p>명령어를 실행하면 아래처럼 Ingress 애드온 설치가 진행됩니다. (설치하는 데에 시간이 약간 소요될 수 있습니다.)</p>
 <p><img src="https://i.imgur.com/IQOLcRn.png" alt/></p>
 <p>설치가 끝나고 <code>minikube addons {minikube 클러스터 이름} list</code> 명령어를 다시 실행하면…</p>
@@ -294,8 +293,7 @@ pre:hover > .expand-button {
 <h3 id="3️⃣minikube-클러스터에-작성한-kubernetes-리소스-배포하기">3️⃣minikube 클러스터에 작성한 Kubernetes 리소스 배포하기<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3️⃣minikube-클러스터에-작성한-kubernetes-리소스-배포하기" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
 <p>Kubernetes 클러스터에 리소스를 배포할 때 kubectl을 사용하죠. minikube 클러스터도 마찬가지입니다.</p>
 <p>특히 kubectl apply -f {파일명 또는 폴더명} 명령어를 사용하면, 여러 Manifest도 한 번에 배포 가능한데요. 제 경우엔 아래와 같이 <strong>Manifest가 포함된 폴더를 지정하는 명령어로 실습에 필요한 모든 리소스를 클러스터에 배포</strong>할 수 있습니다.</p>
-<pre><code>kubectl apply -f ingress-test
-</code></pre>
+<figure data-rehype-pretty-code-figure><pre style="--shiki-light:#e1e4e8;--shiki-dark:#e1e4e8;--shiki-light-bg:#24292e;--shiki-dark-bg:#24292e;" tabindex="0" data-language="shell" data-theme="github-dark github-dark"><code data-language="shell" data-theme="github-dark github-dark" style="display:grid;"><span data-line><span style="--shiki-light:#B392F0;--shiki-dark:#B392F0;">kubectl</span><span style="--shiki-light:#9ECBFF;--shiki-dark:#9ECBFF;"> apply</span><span style="--shiki-light:#79B8FF;--shiki-dark:#79B8FF;"> -f</span><span style="--shiki-light:#9ECBFF;--shiki-dark:#9ECBFF;"> ingress-test</span></span></code></pre></figure>
 <p><strong>실제 터미널에서 <code>ingress-test</code> 폴더가 있는 경로로 이동</strong>한 다음, 해당 명령어를 실행하면 아래와 같이 Manifest에서 정의한 모든 Kubernetes 리소스가 배포됩니다.</p>
 <p><img src="https://i.imgur.com/kq1y9WG.png" alt/></p>
 <p>우리가 작성한 Manifest에서 Namespace를 따로 지정하지 않았기 때문에, <code>default</code> Namespace에 위 리소스가 모두 배포되었습니다. 그래서 배포된 리소스들은 <code>kubectl get all</code> 명령어로 확인 가능합니다.</p>
@@ -305,8 +303,7 @@ pre:hover > .expand-button {
 <p>우리는 지금까지 Ingress Controller 애드온을 활성화했고, Ingress 리소스를 비롯해 테스트에 필요한 모든 Kubernetes 리소스를 클러스터에 배포했습니다.</p>
 <p><strong>Ingress는 클러스터로 접근하는 외부 트래픽의 라우팅을 담당</strong>한다고 했었죠. 여기서 이야기하는 <strong>외부 트래픽은 minikube 클러스터의 IP를 통해 클러스터로 접근</strong>하는 HTTP/HTTPS 요청을 의미합니다.</p>
 <p>그래서 우리가 실습 중인 minikube 클러스터의 IP를 알아야 Ingress 테스트도 할 수 있습니다. minikube 클러스터의 IP를 확인하는 명령어는 아래와 같습니다.</p>
-<pre><code>minikube -p {minikube 클러스터 이름} ip
-</code></pre>
+<figure data-rehype-pretty-code-figure><pre style="--shiki-light:#e1e4e8;--shiki-dark:#e1e4e8;--shiki-light-bg:#24292e;--shiki-dark-bg:#24292e;" tabindex="0" data-language="shell" data-theme="github-dark github-dark"><code data-language="shell" data-theme="github-dark github-dark" style="display:grid;"><span data-line><span style="--shiki-light:#B392F0;--shiki-dark:#B392F0;">minikube</span><span style="--shiki-light:#79B8FF;--shiki-dark:#79B8FF;"> -p</span><span style="--shiki-light:#9ECBFF;--shiki-dark:#9ECBFF;"> {minikube</span><span style="--shiki-light:#9ECBFF;--shiki-dark:#9ECBFF;"> 클러스터</span><span style="--shiki-light:#9ECBFF;--shiki-dark:#9ECBFF;"> 이름}</span><span style="--shiki-light:#9ECBFF;--shiki-dark:#9ECBFF;"> ip</span></span></code></pre></figure>
 <p>터미널에 해당 명령어를 실행하면 아래처럼 우리가 사용 중인 minikube 클러스터의 IP를 알 수 있습니다.</p>
 <p><img src="https://i.imgur.com/ebugb5y.png" alt/></p>
 <p>간단하죠? 그럼 이제 터미널에서 <strong>minikube 클러스터 IP</strong>와 우리가 <strong>Ingress 리소스에서 정의한 path</strong>를 합친 URL에 접근해보겠습니다.</p>
