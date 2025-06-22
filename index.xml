@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>minikube 환경에서 따라해보는 Kustomize 실습</title>
+    <link>https://guide-to-devops.github.io/blog/minikube-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%94%B0%EB%9D%BC%ED%95%B4%EB%B3%B4%EB%8A%94-Kustomize-%EC%8B%A4%EC%8A%B5</link>
+    <guid>https://guide-to-devops.github.io/blog/minikube-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%94%B0%EB%9D%BC%ED%95%B4%EB%B3%B4%EB%8A%94-Kustomize-%EC%8B%A4%EC%8A%B5</guid>
+    <description>지난 글에서 우리는 로컬 minikube 클러스터 위에서 Kubernetes Ingress를 직접 적용하고 기본적인 트래픽 라우팅도 경험했습니다. 이번에는 Kubernetes 리소스가 아닌 클라우드 네이티브 툴을 minikube 클러스터에서 사용해볼 건데요. 특히 Kustomize를 활용한 간단한 Kubernetes 설정 관리를 다뤄보겠습니다.</description>
+    <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>minikube 환경에서 따라해보는 Kubernetes Ingress 실습</title>
     <link>https://guide-to-devops.github.io/blog/minikube-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%94%B0%EB%9D%BC%ED%95%B4%EB%B3%B4%EB%8A%94-Kubernetes-Ingress-%EC%8B%A4%EC%8A%B5</link>
     <guid>https://guide-to-devops.github.io/blog/minikube-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%94%B0%EB%9D%BC%ED%95%B4%EB%B3%B4%EB%8A%94-Kubernetes-Ingress-%EC%8B%A4%EC%8A%B5</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EC%97%90%EA%B2%8C%EB%8F%84-%EC%A4%91%EC%9A%94%ED%95%9C-Observability-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0</guid>
     <description>규모가 작은 팀일수록 ‘감’은 위험하다! - Observability가 필수인 진짜 이유 소규모 팀으로 서비스를 개발하고 운영하기란 쉽지 않습니다. 특히 배포된 서비스에 무슨 문제라도 발생하면… 새로운 기능 개발하기에도 바쁜데 문제 수습하느라 정신없게 되는 거죠. 그래서 소규모 팀이나 1인 개발자는 제품을 만들 때 미리 대비책과 시스템도 구축해야 합니다.</description>
     <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>소규모 팀과 1인 개발자를 위한 Google Analytics 활용 가이드</title>
-    <link>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Google-Analytics-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C</link>
-    <guid>https://guide-to-devops.github.io/blog/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Google-Analytics-%ED%99%9C%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
-    <description>소규모 팀과 1인 개발자에게 앱 분석이 필수인 이유 소규모 팀이나 1인 개발자로 제품을 개발할 때 가장 많이 하는 고민은 무엇일까요? 아마 ‘사용자들이 이 제품을 만족해할까?‘일 것입니다. 일반 기업에 비해 시간과 리소스가 한정적이기 때문에, 이런 고민 끝에 내린 결정은 스스로의 생각에 의존한 경우가 많습니다.</description>
-    <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
