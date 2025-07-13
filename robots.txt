@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: /tags/
 
 Sitemap: https://guide-to-devops.github.io/sitemap.xml
