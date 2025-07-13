@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Git 브랜치 전략 3가지</title>
+    <link>https://guide-to-devops.github.io/blog/%EC%9E%90%EC%A3%BC-%EC%93%B0%EC%9D%B4%EB%8A%94-Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-3%EA%B0%80%EC%A7%80</link>
+    <guid>https://guide-to-devops.github.io/blog/%EC%9E%90%EC%A3%BC-%EC%93%B0%EC%9D%B4%EB%8A%94-Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-3%EA%B0%80%EC%A7%80</guid>
+    <description>Git은 분산 버전 관리 시스템으로서 훌륭하지만, 팀 내 구성원들이 각자의 방식으로 사용하다보면 코드가 충돌하거나 히스토리 관리가 어려워지는 등 문제가 발생할 수 있습니다. 단순히 Git 명령어를 아는 것을 넘어서, 팀 전체가 동의하고 따를 수 있는 명확한 사용 규칙과 절차가 필요한데요.</description>
+    <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Linkerd 핵심 기능 실습 가이드</title>
     <link>https://guide-to-devops.github.io/blog/Linkerd-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EC%8B%A4%EC%8A%B5-%EA%B0%80%EC%9D%B4%EB%93%9C</link>
     <guid>https://guide-to-devops.github.io/blog/Linkerd-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EC%8B%A4%EC%8A%B5-%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%ED%9A%A8%EC%9C%A8%EC%84%B1-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-'%EC%9E%98'-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95</guid>
     <description>💫효율성 관점에서 잘 만든 컨테이너 이미지란 무엇일까? 지난 글에서 보안 관점에서 잘 만든 컨테이너 이미지에 대해 살펴봤는데요. 이번엔 효율적인 컨테이너 이미지를 만드는 방법에 대해 알아보겠습니다. 먼저 효율성 관점에서 요구되는 사항을 정리해보겠습니다. 컨테이너 이미지 크기 경량화 컨테이너 이미지 레이어 최소화 컨테이너 이미지 레이어 최적화 이미지 크기 경량화는 그 뜻이 금방 이해가 되는데… 컨테이너 이미지 레이어는 뭘까요? 지금 낯설게 느껴져도 괜찮습니다.</description>
     <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>컨테이너 이미지를 보안 관점에서 &#039;잘&#039; 만드는 법</title>
-    <link>https://guide-to-devops.github.io/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B3%B4%EC%95%88-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-'%EC%9E%98'-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95</link>
-    <guid>https://guide-to-devops.github.io/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EB%B3%B4%EC%95%88-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-'%EC%9E%98'-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95</guid>
-    <description>💿컨테이너 이미지를 ‘잘’ 만들어야 하는 이유 이제 컨테이너 이미지는 우리가 개발 프로젝트를 진행할 때 쉽게 접하는 개념이 되었습니다. 독립된 환경 안에서 특정한 애플리케이션이 실행되는 걸 보장해주기 때문에 Kubernetes나 퍼블릭 클라우드(AWS, GCP 등)를 사용한다면 거의 필수 요소가 되었죠.</description>
-    <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
