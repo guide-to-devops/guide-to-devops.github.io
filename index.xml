@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Kyverno 핵심 기능 3가지 실습 가이드 (feat. minikube)</title>
+    <link>https://guide-to-devops.github.io/blog/Kyverno-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%8B%A4%EC%8A%B5-%EA%B0%80%EC%9D%B4%EB%93%9C-(feat.-Minikube)</link>
+    <guid>https://guide-to-devops.github.io/blog/Kyverno-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%8B%A4%EC%8A%B5-%EA%B0%80%EC%9D%B4%EB%93%9C-(feat.-Minikube)</guid>
+    <description>여러 개발자 또는 팀에서 동일 Kubernetes 클러스터를 사용하는 경우에는 일관된 규칙, 또는 정책을 적용하는 것이 중요합니다. 안정적인 운영뿐만 아니라 보안 취약점을 최소화할 수도 있기 때문인데요. 여기서 말하는 정책이라 하면… 모든 워크로드에 특정 보안 설정을 강제하거나, Pod의 리소스 사용량을 제한하고, 필수 레이블이 무조건 포함되도록 하는 등이 있습니다.</description>
+    <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Git 브랜치 전략 3가지</title>
     <link>https://guide-to-devops.github.io/blog/%EC%9E%90%EC%A3%BC-%EC%93%B0%EC%9D%B4%EB%8A%94-Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-3%EA%B0%80%EC%A7%80</link>
     <guid>https://guide-to-devops.github.io/blog/%EC%9E%90%EC%A3%BC-%EC%93%B0%EC%9D%B4%EB%8A%94-Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-3%EA%B0%80%EC%A7%80</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/IaC-%ED%88%B4,-%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C%EB%8F%84-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C---%EC%9A%B0%EB%A6%AC-%ED%8C%80%EC%97%90-%EB%A7%9E%EB%8A%94-IaC-%ED%88%B4-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EB%B2%95--and--Pulumi-%EC%86%8C%EA%B0%9C</guid>
     <description>❔우리에게도 IaC가 필요할까? 서비스 개발이 끝나면 배포하기 위해 우리는 보통 클라우드 서비스를 이용합니다. AWS나 GCP, Azure 같은 퍼블릭 클라우드 서비스 덕분에, 규모가 크지 않은 프로젝트라면 컴퓨팅 서버와 로드 밸런서, DB 정도만 설정에 신경쓰면 금방 서비스를 배포할 수 있게 되었죠.</description>
     <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>컨테이너 이미지를 효율성 관점에서 &#039;잘&#039; 만드는 법</title>
-    <link>https://guide-to-devops.github.io/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%ED%9A%A8%EC%9C%A8%EC%84%B1-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-'%EC%9E%98'-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95</link>
-    <guid>https://guide-to-devops.github.io/blog/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%ED%9A%A8%EC%9C%A8%EC%84%B1-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-'%EC%9E%98'-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95</guid>
-    <description>💫효율성 관점에서 잘 만든 컨테이너 이미지란 무엇일까? 지난 글에서 보안 관점에서 잘 만든 컨테이너 이미지에 대해 살펴봤는데요. 이번엔 효율적인 컨테이너 이미지를 만드는 방법에 대해 알아보겠습니다. 먼저 효율성 관점에서 요구되는 사항을 정리해보겠습니다. 컨테이너 이미지 크기 경량화 컨테이너 이미지 레이어 최소화 컨테이너 이미지 레이어 최적화 이미지 크기 경량화는 그 뜻이 금방 이해가 되는데… 컨테이너 이미지 레이어는 뭘까요? 지금 낯설게 느껴져도 괜찮습니다.</description>
-    <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
