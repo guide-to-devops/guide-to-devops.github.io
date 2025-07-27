@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>GitOps 필수 개념과 용어 컴팩트 정리</title>
+    <link>https://guide-to-devops.github.io/blog/GitOps-%ED%95%84%EC%88%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%9A%A9%EC%96%B4-%EC%BB%B4%ED%8C%A9%ED%8A%B8-%EC%A0%95%EB%A6%AC</link>
+    <guid>https://guide-to-devops.github.io/blog/GitOps-%ED%95%84%EC%88%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%9A%A9%EC%96%B4-%EC%BB%B4%ED%8C%A9%ED%8A%B8-%EC%A0%95%EB%A6%AC</guid>
+    <description> GitOps는 DevOps 업계에서 꾸준히 주목받는 키워드입니다. GitOps란, 애플리케이션 코드부터 인프라 구성까지 필요한 모든 정보를 Git 저장소에 저장하고 관리하는 방법론인데요. 최근까지 GitOps 안에서도 다양한 개념과 용어가 정립되고 있다보니, 이를 알기 쉽게 정리하면 여러분들께 도움이 될 것 같아서 GitOps의 필수 개념들을 컴팩트하게 정리해보겠습니다.</description>
+    <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Kyverno 핵심 기능 3가지 실습 가이드 (feat. minikube)</title>
     <link>https://guide-to-devops.github.io/blog/Kyverno-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%8B%A4%EC%8A%B5-%EA%B0%80%EC%9D%B4%EB%93%9C-(feat.-Minikube)</link>
     <guid>https://guide-to-devops.github.io/blog/Kyverno-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%8B%A4%EC%8A%B5-%EA%B0%80%EC%9D%B4%EB%93%9C-(feat.-Minikube)</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/Pulumi%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-Python-%EC%96%B8%EC%96%B4%EB%A1%9C-AWS-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0</guid>
     <description>우리가 지난 글에서 IaC가 필요한 이유와 Pulumi의 동작 방식까지 살펴봤는데요. 이번 글에서는 Pulumi를 활용해서 AWS SQS를 배포하는 과정을 통해 Pulumi의 핵심 워크플로우를 정리해봤습니다. 제가 직접 테스트하면서 작성한 가이드이니, IaC와 Pulumi에 관심 있으시다면 꼭 확인해주세요! 1️⃣Pulumi 설치 및 AWS 계정 설정 Pulumi를 사용하기 위해서는 먼저 사용 중인 PC에 Pulumi CLI를 설치하고, AWS 계정 설정을 마쳐야 합니다.</description>
     <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>우리 팀에 맞는 IaC 툴 선택하는 법 &amp; Pulumi 소개</title>
-    <link>https://guide-to-devops.github.io/blog/IaC-%ED%88%B4,-%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C%EB%8F%84-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C---%EC%9A%B0%EB%A6%AC-%ED%8C%80%EC%97%90-%EB%A7%9E%EB%8A%94-IaC-%ED%88%B4-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EB%B2%95--and--Pulumi-%EC%86%8C%EA%B0%9C</link>
-    <guid>https://guide-to-devops.github.io/blog/IaC-%ED%88%B4,-%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C%EB%8F%84-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C---%EC%9A%B0%EB%A6%AC-%ED%8C%80%EC%97%90-%EB%A7%9E%EB%8A%94-IaC-%ED%88%B4-%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94-%EB%B2%95--and--Pulumi-%EC%86%8C%EA%B0%9C</guid>
-    <description>❔우리에게도 IaC가 필요할까? 서비스 개발이 끝나면 배포하기 위해 우리는 보통 클라우드 서비스를 이용합니다. AWS나 GCP, Azure 같은 퍼블릭 클라우드 서비스 덕분에, 규모가 크지 않은 프로젝트라면 컴퓨팅 서버와 로드 밸런서, DB 정도만 설정에 신경쓰면 금방 서비스를 배포할 수 있게 되었죠.</description>
-    <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
