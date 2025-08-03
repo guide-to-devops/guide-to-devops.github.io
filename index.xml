@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>SIEM(보안 정보 및 이벤트 관리)에 대해 알아보자</title>
+    <link>https://guide-to-devops.github.io/blog/SIEM(%EB%B3%B4%EC%95%88-%EC%A0%95%EB%B3%B4-%EB%B0%8F-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B4%80%EB%A6%AC)%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90</link>
+    <guid>https://guide-to-devops.github.io/blog/SIEM(%EB%B3%B4%EC%95%88-%EC%A0%95%EB%B3%B4-%EB%B0%8F-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B4%80%EB%A6%AC)%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90</guid>
+    <description>최근 참석한 Elastic의 2025 Future of Elastic Security 컨퍼런스에서 SIEM(Security Information and Event Management)이란 개념에 대해 접하게 되었습니다. SIEM이란 ‘보안 정보 및 이벤트를 관리’하는 시스템을 일컫는 용어인데요.</description>
+    <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>GitOps 필수 개념과 용어 컴팩트 정리</title>
     <link>https://guide-to-devops.github.io/blog/GitOps-%ED%95%84%EC%88%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%9A%A9%EC%96%B4-%EC%BB%B4%ED%8C%A9%ED%8A%B8-%EC%A0%95%EB%A6%AC</link>
     <guid>https://guide-to-devops.github.io/blog/GitOps-%ED%95%84%EC%88%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%9A%A9%EC%96%B4-%EC%BB%B4%ED%8C%A9%ED%8A%B8-%EC%A0%95%EB%A6%AC</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/Minikube-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
     <description>Kubernetes는 이미 클라우드 환경의 표준으로 자리잡았고, 많은 기업과 팀에서 직접 서버에 Kubernetes 클러스터를 구죽하거나 관리형 Kubernetes 서비스를 이용하고 있습니다. 그래서 많은 분들이 Kubernetes와 클라우드 네이티브 툴에 관심을 가지고 계시지만, 여전히 진입장벽은 높은 편인데요.</description>
     <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Pulumi를 활용하여 Python 언어로 AWS 리소스 관리하기</title>
-    <link>https://guide-to-devops.github.io/blog/Pulumi%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-Python-%EC%96%B8%EC%96%B4%EB%A1%9C-AWS-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0</link>
-    <guid>https://guide-to-devops.github.io/blog/Pulumi%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-Python-%EC%96%B8%EC%96%B4%EB%A1%9C-AWS-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0</guid>
-    <description>우리가 지난 글에서 IaC가 필요한 이유와 Pulumi의 동작 방식까지 살펴봤는데요. 이번 글에서는 Pulumi를 활용해서 AWS SQS를 배포하는 과정을 통해 Pulumi의 핵심 워크플로우를 정리해봤습니다. 제가 직접 테스트하면서 작성한 가이드이니, IaC와 Pulumi에 관심 있으시다면 꼭 확인해주세요! 1️⃣Pulumi 설치 및 AWS 계정 설정 Pulumi를 사용하기 위해서는 먼저 사용 중인 PC에 Pulumi CLI를 설치하고, AWS 계정 설정을 마쳐야 합니다.</description>
-    <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
