@@ -6,6 +6,18 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>서버리스의 탄생 - 서버는 어디로 갔을까?</title>
+    <link>https://guide-to-devops.github.io/blog/MoC_%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EC%9D%98-%ED%83%84%EC%83%9D---%EC%84%9C%EB%B2%84%EB%8A%94-%EC%96%B4%EB%94%94%EB%A1%9C-%EA%B0%94%EC%9D%84%EA%B9%8C</link>
+    <guid>https://guide-to-devops.github.io/blog/MoC_%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EC%9D%98-%ED%83%84%EC%83%9D---%EC%84%9C%EB%B2%84%EB%8A%94-%EC%96%B4%EB%94%94%EB%A1%9C-%EA%B0%94%EC%9D%84%EA%B9%8C</guid>
+    <description>...</description>
+    <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>중앙 서버를 넘어 우리의 곁으로 다가온 AI: Edge AI와 클라우드</title>
+    <link>https://guide-to-devops.github.io/blog/%EC%A4%91%EC%95%99-%EC%84%9C%EB%B2%84%EB%A5%BC-%EB%84%98%EC%96%B4-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B3%81%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EA%B0%80%EC%98%A8-AI</link>
+    <guid>https://guide-to-devops.github.io/blog/%EC%A4%91%EC%95%99-%EC%84%9C%EB%B2%84%EB%A5%BC-%EB%84%98%EC%96%B4-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B3%81%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EA%B0%80%EC%98%A8-AI</guid>
+    <description>ChatGPT와 Gemini, Claude Code와 같은 AI는 이미 우리 일상뿐만 아니라 업무 영역에도 자리잡았습니다. 일상생활 중에 궁금한 점을 물어보는 것부터, 업무에서 반복 작업을 자동화하는 것까지 AI가 없는 세상은 이제 상상하기 어려울 것입니다. 근데 이런 AI가 PC나 스마트폰 속에서만 존재할까요? 당연히 아닙니다.</description>
+    <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Kubernetes라는 항해사의 조타기, Helm의 탄생과 미래</title>
     <link>https://guide-to-devops.github.io/blog/Kubernetes%EB%9D%BC%EB%8A%94-%ED%95%AD%ED%95%B4%EC%82%AC%EC%9D%98-%EC%A1%B0%ED%83%80%EA%B8%B0,-Helm%EC%9D%98-%ED%83%84%EC%83%9D%EA%B3%BC-%EB%AF%B8%EB%9E%98</link>
     <guid>https://guide-to-devops.github.io/blog/Kubernetes%EB%9D%BC%EB%8A%94-%ED%95%AD%ED%95%B4%EC%82%AC%EC%9D%98-%EC%A1%B0%ED%83%80%EA%B8%B0,-Helm%EC%9D%98-%ED%83%84%EC%83%9D%EA%B3%BC-%EB%AF%B8%EB%9E%98</guid>
@@ -53,18 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/Kyverno-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%8B%A4%EC%8A%B5-%EA%B0%80%EC%9D%B4%EB%93%9C-(feat.-Minikube)</guid>
     <description>여러 개발자 또는 팀에서 동일 Kubernetes 클러스터를 사용하는 경우에는 일관된 규칙, 또는 정책을 적용하는 것이 중요합니다. 안정적인 운영뿐만 아니라 보안 취약점을 최소화할 수도 있기 때문인데요. 여기서 말하는 정책이라 하면… 모든 워크로드에 특정 보안 설정을 강제하거나, Pod의 리소스 사용량을 제한하고, 필수 레이블이 무조건 포함되도록 하는 등이 있습니다.</description>
     <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Git 브랜치 전략 3가지</title>
-    <link>https://guide-to-devops.github.io/blog/%EC%9E%90%EC%A3%BC-%EC%93%B0%EC%9D%B4%EB%8A%94-Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-3%EA%B0%80%EC%A7%80</link>
-    <guid>https://guide-to-devops.github.io/blog/%EC%9E%90%EC%A3%BC-%EC%93%B0%EC%9D%B4%EB%8A%94-Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-3%EA%B0%80%EC%A7%80</guid>
-    <description>Git은 분산 버전 관리 시스템으로서 훌륭하지만, 팀 내 구성원들이 각자의 방식으로 사용하다보면 코드가 충돌하거나 히스토리 관리가 어려워지는 등 문제가 발생할 수 있습니다. 단순히 Git 명령어를 아는 것을 넘어서, 팀 전체가 동의하고 따를 수 있는 명확한 사용 규칙과 절차가 필요한데요.</description>
-    <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Linkerd 핵심 기능 실습 가이드</title>
-    <link>https://guide-to-devops.github.io/blog/Linkerd-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EC%8B%A4%EC%8A%B5-%EA%B0%80%EC%9D%B4%EB%93%9C</link>
-    <guid>https://guide-to-devops.github.io/blog/Linkerd-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EC%8B%A4%EC%8A%B5-%EA%B0%80%EC%9D%B4%EB%93%9C</guid>
-    <description>Linkerd의 핵심 개념과 기능에 대해 다뤘던 지난 시간에 이어서, 이번엔 Linkerd를 직접 설치하고 사용해보는 실습을 진행해보겠습니다. 컴팩트한 실습을 위해, Linkerd를 사용할 Kubernetes 클러스터는 minikube로 구성해서 진행하도록 하겠습니다. minikube는 이미 지난 글에서 계속 다뤘기 때문에 추가로 설명하진 않겠습니다.</description>
-    <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
