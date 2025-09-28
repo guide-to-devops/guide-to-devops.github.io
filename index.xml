@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>GitOps 공인 자격증 취득 후기와 시험에 꼭 등장하는 GitOps의 핵심 원칙</title>
+    <link>https://guide-to-devops.github.io/blog/GitOps-%EA%B3%B5%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%B7%A8%EB%93%9D-%ED%9B%84%EA%B8%B0%EC%99%80-%EC%B5%9C%EA%B7%BC-%EC%8B%9C%ED%97%98%EC%97%90-%EA%BC%AD-%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94-GitOps%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%9B%90%EC%B9%99</link>
+    <guid>https://guide-to-devops.github.io/blog/GitOps-%EA%B3%B5%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%B7%A8%EB%93%9D-%ED%9B%84%EA%B8%B0%EC%99%80-%EC%B5%9C%EA%B7%BC-%EC%8B%9C%ED%97%98%EC%97%90-%EA%BC%AD-%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94-GitOps%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%9B%90%EC%B9%99</guid>
+    <description>비교적 최근 등장한 GitOps는 DevOps를 좀 더 구체적으로 실현하기 위해 등장한 방법론입니다. 특히 이름에서도 알 수 있듯이, Git을 중심으로 DevOps 원칙을 구현하죠. 전세계적으로 클라우드 네이티브 생태계를 관리하는 CNCF에서 이런 GitOps 자격증을 릴리즈했습니다.</description>
+    <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>화성 탐사에 적용된 DevOps: NASA 제트추진연구소의 &#039;성간 DevOps&#039;</title>
     <link>https://guide-to-devops.github.io/blog/%ED%99%94%EC%84%B1-%ED%83%90%EC%82%AC%EC%97%90-%EC%A0%81%EC%9A%A9%EB%90%9C-DevOps---NASA-%EC%A0%9C%ED%8A%B8%EC%B6%94%EC%A7%84%EC%97%B0%EA%B5%AC%EC%86%8C%EC%9D%98-'%EC%84%B1%EA%B0%84-DevOps'</link>
     <guid>https://guide-to-devops.github.io/blog/%ED%99%94%EC%84%B1-%ED%83%90%EC%82%AC%EC%97%90-%EC%A0%81%EC%9A%A9%EB%90%9C-DevOps---NASA-%EC%A0%9C%ED%8A%B8%EC%B6%94%EC%A7%84%EC%97%B0%EA%B5%AC%EC%86%8C%EC%9D%98-'%EC%84%B1%EA%B0%84-DevOps'</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/GitOps-%ED%95%84%EC%88%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%9A%A9%EC%96%B4-%EC%BB%B4%ED%8C%A9%ED%8A%B8-%EC%A0%95%EB%A6%AC</guid>
     <description> GitOps는 DevOps 업계에서 꾸준히 주목받는 키워드입니다. GitOps란, 애플리케이션 코드부터 인프라 구성까지 필요한 모든 정보를 Git 저장소에 저장하고 관리하는 방법론인데요. 최근까지 GitOps 안에서도 다양한 개념과 용어가 정립되고 있다보니, 이를 알기 쉽게 정리하면 여러분들께 도움이 될 것 같아서 GitOps의 필수 개념들을 컴팩트하게 정리해보겠습니다.</description>
     <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Kyverno 핵심 기능 3가지 실습 가이드 (feat. minikube)</title>
-    <link>https://guide-to-devops.github.io/blog/Kyverno-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%8B%A4%EC%8A%B5-%EA%B0%80%EC%9D%B4%EB%93%9C-(feat.-Minikube)</link>
-    <guid>https://guide-to-devops.github.io/blog/Kyverno-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-3%EA%B0%80%EC%A7%80-%EC%8B%A4%EC%8A%B5-%EA%B0%80%EC%9D%B4%EB%93%9C-(feat.-Minikube)</guid>
-    <description>여러 개발자 또는 팀에서 동일 Kubernetes 클러스터를 사용하는 경우에는 일관된 규칙, 또는 정책을 적용하는 것이 중요합니다. 안정적인 운영뿐만 아니라 보안 취약점을 최소화할 수도 있기 때문인데요. 여기서 말하는 정책이라 하면… 모든 워크로드에 특정 보안 설정을 강제하거나, Pod의 리소스 사용량을 제한하고, 필수 레이블이 무조건 포함되도록 하는 등이 있습니다.</description>
-    <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
