@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>CNCF의 GitOps 공인 자격증에 최근 자주 출제되는 GitOps 핵심 용어</title>
+    <link>https://guide-to-devops.github.io/blog/CNCF%EC%9D%98-GitOps-%EA%B3%B5%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D%EC%97%90-%EC%B5%9C%EA%B7%BC-%EC%9E%90%EC%A3%BC-%EC%B6%9C%EC%A0%9C%EB%90%98%EB%8A%94-GitOps-%ED%95%B5%EC%8B%AC-%EC%9A%A9%EC%96%B4</link>
+    <guid>https://guide-to-devops.github.io/blog/CNCF%EC%9D%98-GitOps-%EA%B3%B5%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D%EC%97%90-%EC%B5%9C%EA%B7%BC-%EC%9E%90%EC%A3%BC-%EC%B6%9C%EC%A0%9C%EB%90%98%EB%8A%94-GitOps-%ED%95%B5%EC%8B%AC-%EC%9A%A9%EC%96%B4</guid>
+    <description>이번 아티클에선 지난 글에 이어 CGOA 자격증에서 정말 자주 등장하는 핵심 용어를 살펴보려합니다. GitOps는 DevOps를 실현하는 방법론으로 최근 등장한 개념이다보니 GitOps 용어들이 낯설 수도 있는데요. 너무 많은 것을 단순 나열하기 보단, GitOps 도입에 꼭 알아야 할 핵심 용어 5가지를 엄선해서 이해하기 쉽게 정리해보겠습니다.</description>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>GitOps 공인 자격증 취득 후기와 시험에 꼭 등장하는 GitOps의 핵심 원칙</title>
     <link>https://guide-to-devops.github.io/blog/GitOps-%EA%B3%B5%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%B7%A8%EB%93%9D-%ED%9B%84%EA%B8%B0%EC%99%80-%EC%B5%9C%EA%B7%BC-%EC%8B%9C%ED%97%98%EC%97%90-%EA%BC%AD-%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94-GitOps%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%9B%90%EC%B9%99</link>
     <guid>https://guide-to-devops.github.io/blog/GitOps-%EA%B3%B5%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%B7%A8%EB%93%9D-%ED%9B%84%EA%B8%B0%EC%99%80-%EC%B5%9C%EA%B7%BC-%EC%8B%9C%ED%97%98%EC%97%90-%EA%BC%AD-%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94-GitOps%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%9B%90%EC%B9%99</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/SIEM(%EB%B3%B4%EC%95%88-%EC%A0%95%EB%B3%B4-%EB%B0%8F-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B4%80%EB%A6%AC)%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90</guid>
     <description>최근 참석한 Elastic의 2025 Future of Elastic Security 컨퍼런스에서 SIEM(Security Information and Event Management)이란 개념에 대해 접하게 되었습니다. SIEM이란 ‘보안 정보 및 이벤트를 관리’하는 시스템을 일컫는 용어인데요.</description>
     <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>GitOps 필수 개념과 용어 컴팩트 정리</title>
-    <link>https://guide-to-devops.github.io/blog/GitOps-%ED%95%84%EC%88%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%9A%A9%EC%96%B4-%EC%BB%B4%ED%8C%A9%ED%8A%B8-%EC%A0%95%EB%A6%AC</link>
-    <guid>https://guide-to-devops.github.io/blog/GitOps-%ED%95%84%EC%88%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%9A%A9%EC%96%B4-%EC%BB%B4%ED%8C%A9%ED%8A%B8-%EC%A0%95%EB%A6%AC</guid>
-    <description> GitOps는 DevOps 업계에서 꾸준히 주목받는 키워드입니다. GitOps란, 애플리케이션 코드부터 인프라 구성까지 필요한 모든 정보를 Git 저장소에 저장하고 관리하는 방법론인데요. 최근까지 GitOps 안에서도 다양한 개념과 용어가 정립되고 있다보니, 이를 알기 쉽게 정리하면 여러분들께 도움이 될 것 같아서 GitOps의 필수 개념들을 컴팩트하게 정리해보겠습니다.</description>
-    <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
