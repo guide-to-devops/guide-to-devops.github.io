@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>미 공군이 F-16 전투기에 Kubernetes를 띄운 사연</title>
+    <link>https://guide-to-devops.github.io/blog/MoC_%EB%AF%B8-%EA%B3%B5%EA%B5%B0%EC%9D%B4-%ED%95%98%EB%8A%98-%EC%9C%84-%EC%A0%84%ED%88%AC%EA%B8%B0%EC%97%90-Kubernetes%EB%A5%BC-%EB%9D%84%EC%9A%B4-%EC%9D%B4%EC%9C%A0</link>
+    <guid>https://guide-to-devops.github.io/blog/MoC_%EB%AF%B8-%EA%B3%B5%EA%B5%B0%EC%9D%B4-%ED%95%98%EB%8A%98-%EC%9C%84-%EC%A0%84%ED%88%AC%EA%B8%B0%EC%97%90-Kubernetes%EB%A5%BC-%EB%9D%84%EC%9A%B4-%EC%9D%B4%EC%9C%A0</guid>
+    <description>Kubernetes은 이제 사실상 표준이 된 컨테이너 오케스트레이션 툴입니다. 개발한 서비스를 컨테이너로 배포하는 IT 기업이라면 이미 Kubernetes를 사용하고 있거나, 도입을 고려한 경우가 대부분이라는 뜻인데요. 실제로 CNCF와 Red Hat의 분석에 따르면 최근 컨테이너 오케스트레이션 시장의 92%를 Kubernetes가 점유하고 있고, Kubernetes를 사용 중인 조직의 91%는 1000명 이상의 직원을 고용 중인 대기업이라고 합니다.</description>
+    <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>CNCF의 GitOps 공인 자격증에 최근 자주 출제되는 GitOps 핵심 용어</title>
     <link>https://guide-to-devops.github.io/blog/CNCF%EC%9D%98-GitOps-%EA%B3%B5%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D%EC%97%90-%EC%B5%9C%EA%B7%BC-%EC%9E%90%EC%A3%BC-%EC%B6%9C%EC%A0%9C%EB%90%98%EB%8A%94-GitOps-%ED%95%B5%EC%8B%AC-%EC%9A%A9%EC%96%B4</link>
     <guid>https://guide-to-devops.github.io/blog/CNCF%EC%9D%98-GitOps-%EA%B3%B5%EC%9D%B8-%EC%9E%90%EA%B2%A9%EC%A6%9D%EC%97%90-%EC%B5%9C%EA%B7%BC-%EC%9E%90%EC%A3%BC-%EC%B6%9C%EC%A0%9C%EB%90%98%EB%8A%94-GitOps-%ED%95%B5%EC%8B%AC-%EC%9A%A9%EC%96%B4</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/%EC%9D%B4%EC%A0%9C-%EC%A0%95%EC%B1%85-%EA%B4%80%EB%A6%AC%EB%8F%84-%EC%BD%94%EB%93%9C%EB%A1%9C---Policy-as-Code%EC%9D%98-%EB%93%B1%EC%9E%A5%EA%B3%BC-%EB%B0%9C%EC%A0%84</guid>
     <description>최근 DevOps 업계에 자주 등장하는 키워드가 하나 있습니다. 바로 Policy as Code(PaC)인데요. Kubernetes에서 정책을 관리하는 대표적인 PaC 툴이 Kyverno죠. 저도 DevOps 엔지니어다보니 이렇게 주목받고 있는 PaC에 대해 꾸준히 조사하고 있는데요.</description>
     <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>SIEM(보안 정보 및 이벤트 관리)에 대해 알아보자</title>
-    <link>https://guide-to-devops.github.io/blog/SIEM(%EB%B3%B4%EC%95%88-%EC%A0%95%EB%B3%B4-%EB%B0%8F-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B4%80%EB%A6%AC)%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90</link>
-    <guid>https://guide-to-devops.github.io/blog/SIEM(%EB%B3%B4%EC%95%88-%EC%A0%95%EB%B3%B4-%EB%B0%8F-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B4%80%EB%A6%AC)%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90</guid>
-    <description>최근 참석한 Elastic의 2025 Future of Elastic Security 컨퍼런스에서 SIEM(Security Information and Event Management)이란 개념에 대해 접하게 되었습니다. SIEM이란 ‘보안 정보 및 이벤트를 관리’하는 시스템을 일컫는 용어인데요.</description>
-    <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
