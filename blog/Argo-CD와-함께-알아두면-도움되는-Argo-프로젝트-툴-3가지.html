@@ -145,11 +145,17 @@ pre:hover > .expand-button {
 <p><img src="https://i.imgur.com/hmJbqEA.png" alt/>
 (출처: <a href="https://blog.argoproj.io/argo-cd-2025-user-survey-results-ab045f7d5d9a" class="external">https://blog.argoproj.io/argo-cd-2025-user-survey-results-ab045f7d5d9a<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>)</p>
 <p>Argo CD가 무엇인지 아직 모르시거나 헷갈리시는 분들을 위해 설명드리자면, Argo CD는 GitOps 방법론을 실현할 수 있는 조정 엔진(Reconciliation Engine)입니다. 사용자 친화적인 웹 UI를 제공하여 진입 장벽이 높지 않다는 점도 특징입니다.</p>
-<blockquote>
-<p>[! info] GitOps와 조정 엔진이란
-시스템이 되어야 할 최종 상태를 명시적으로 정의한 파일을 Git에 저장하고, 저장된 상태 파일을 참조해 시스템을 계속해서 최종 상태로 업데이트하는 방식을 <strong>GitOps 방법론</strong>이라고 합니다.
+<blockquote class="callout info" data-callout="info">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>GitOps와 조정 엔진이란 </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>시스템이 되어야 할 최종 상태를 명시적으로 정의한 파일을 Git에 저장하고, 저장된 상태 파일을 참조해 시스템을 계속해서 최종 상태로 업데이트하는 방식을 <strong>GitOps 방법론</strong>이라고 합니다.
 그리고 이때 시스템을 계속 최종 상태로 업데이트하는 툴을 <strong>조정 엔진</strong>이라고 합니다.
 GitOps 방법론에 대해서 궁금하시다면 관련해서 자세히 다룬 <a href="../blog/GitOps-공인-자격증-취득-후기와-최근-시험에-꼭-등장하는-GitOps의-핵심-원칙" class="internal alias" data-slug="blog/GitOps-공인-자격증-취득-후기와-최근-시험에-꼭-등장하는-GitOps의-핵심-원칙">지난 아티클</a>을 확인해보세요.</p>
+</div>
 </blockquote>
 <p>특히 Argo CD는 Kubernetes를 위한 조정 엔진이기 때문에 Kubernetes 클러스터의 최종 상태를 선언적으로 관리하면서 시스템의 변경사항을 기록하고 추적 가능합니다. 이미 널리 쓰이고 있는 Kubernetes 클러스터를 체계적으로 운영하게끔 도와주는 툴이니, Argo CD의 인기도 이해가 됩니다.</p>
 <p><img src="https://i.imgur.com/pve2CP3.png" alt/>
