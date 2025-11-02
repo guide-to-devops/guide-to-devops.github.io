@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>옵저버빌리티의 나침반이 되어주는 SLI, SLO, Error Budget</title>
+    <link>https://guide-to-devops.github.io/blog/%EC%98%B5%EC%A0%80%EB%B2%84%EB%B9%8C%EB%A6%AC%ED%8B%B0%EC%9D%98-%EB%82%98%EC%B9%A8%EB%B0%98%EC%9D%B4-%EB%90%98%EC%96%B4%EC%A3%BC%EB%8A%94-%EC%A7%80%ED%91%9C%EB%93%A4---SLI,-SLO,-Error-Budget</link>
+    <guid>https://guide-to-devops.github.io/blog/%EC%98%B5%EC%A0%80%EB%B2%84%EB%B9%8C%EB%A6%AC%ED%8B%B0%EC%9D%98-%EB%82%98%EC%B9%A8%EB%B0%98%EC%9D%B4-%EB%90%98%EC%96%B4%EC%A3%BC%EB%8A%94-%EC%A7%80%ED%91%9C%EB%93%A4---SLI,-SLO,-Error-Budget</guid>
+    <description>본 아티클 내용에 들어가기 앞서, 여러분들께 한 가지 소식을 공유하고자 합니다. 다가오는 11월 21일 코엑스 컨퍼런스센터에서 개최되는 와탭랩스의 2025 WhaTap Observe Summit에서 제가 발표자로 참여하게 되었습니다. 해당 컨퍼런스는 옵저버빌리티와 AI 활용 등에 대한 인사이트를 나누는 다양한 세션들로 구성되어있는데요.</description>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>서버리스의 탄생과 최근 트렌드</title>
     <link>https://guide-to-devops.github.io/blog/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EC%9D%98-%ED%83%84%EC%83%9D%EA%B3%BC-%EC%B5%9C%EA%B7%BC-%ED%8A%B8%EB%A0%8C%EB%93%9C</link>
     <guid>https://guide-to-devops.github.io/blog/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EC%9D%98-%ED%83%84%EC%83%9D%EA%B3%BC-%EC%B5%9C%EA%B7%BC-%ED%8A%B8%EB%A0%8C%EB%93%9C</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/KCA-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0-%EB%B0%8F-%EC%8B%9C%ED%97%98%EC%97%90-%EC%9E%90%EC%A3%BC-%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94-%ED%82%A4%EC%9B%8C%EB%93%9C-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC</guid>
     <description> KCA(Kyverno Certified Associate)는 CNCF가 2024년 말에 새로 발표한 Kyverno 자격증입니다. 저는 CNCF의 Kubestronaut 멤버 자격으로 KCA 출시 직전 베타 테스터로 시험에 응시했다가 당시 준비가 미흡해 합격하지 못했는데요.</description>
     <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>빌드 오류에 질려버린 개발자가 만든 Jenkins, 차세대 Jenkins X로 거듭나기까지</title>
-    <link>https://guide-to-devops.github.io/blog/%EB%B9%8C%EB%93%9C-%EC%98%A4%EB%A5%98%EC%97%90-%EC%A7%88%EB%A0%A4%EB%B2%84%EB%A6%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%A7%8C%EB%93%A0-Jenkins,-%EC%B0%A8%EC%84%B8%EB%8C%80-Jenkins-X%EB%A1%9C-%EA%B1%B0%EB%93%AD%EB%82%98%EA%B8%B0%EA%B9%8C%EC%A7%80</link>
-    <guid>https://guide-to-devops.github.io/blog/%EB%B9%8C%EB%93%9C-%EC%98%A4%EB%A5%98%EC%97%90-%EC%A7%88%EB%A0%A4%EB%B2%84%EB%A6%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%A7%8C%EB%93%A0-Jenkins,-%EC%B0%A8%EC%84%B8%EB%8C%80-Jenkins-X%EB%A1%9C-%EA%B1%B0%EB%93%AD%EB%82%98%EA%B8%B0%EA%B9%8C%EC%A7%80</guid>
-    <description> Jenkins는 현재 2000개가 넘는 플러그인이 개발될 정도로 많이 사용되는 오픈소스 CI(지속적 통합) 플랫폼입니다. 지금의 DevOps와 CI/CD 개념을 탄생시킨 주역 중 하나라고 봐도 무방한데요. 그런 Jenkins가 빌드 에러에 질려버린 어느 한 개발자에 의해 우연히 탄생했다는 사실, 알고 계신가요? 등장 배경부터 변천사, 그리고 차세대 버전인 Jenkins X까지 Jenkins와 관련된 흥미로운 이야기를 가져왔습니다.</description>
-    <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
