@@ -7,8 +7,8 @@
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>SLO 대시보드로 효과적인 옵저버빌리티 시작하기</title>
-    <link>https://guide-to-devops.github.io/blog/SLO-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C%EB%A1%9C-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-%EC%98%B5%EC%A0%80%EB%B2%84%EB%B9%8C%EB%A6%AC%ED%8B%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0</link>
-    <guid>https://guide-to-devops.github.io/blog/SLO-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C%EB%A1%9C-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-%EC%98%B5%EC%A0%80%EB%B2%84%EB%B9%8C%EB%A6%AC%ED%8B%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0</guid>
+    <link>https://guide-to-devops.github.io/blog/slo-dashboard-for-effective-observability</link>
+    <guid>https://guide-to-devops.github.io/blog/slo-dashboard-for-effective-observability</guid>
     <description>옵저버빌리티를 구축할 때 어떤 툴을 사용해야 할지 비교하는 것도 중요하지만, 팀이 모니터링 대시보드를 통해 알아야 할 것을 정의하는 것 역시 무척 중요합니다. 그래서 지난 글에서 SLI(Service Level Indicator)와 SLO(Service Level Object), Error Budget에 대해 소개해드렸는데요.</description>
     <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
   </item><item>
@@ -25,9 +25,9 @@
     <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>옵저버빌리티의 나침반이 되어주는 SLI, SLO, Error Budget</title>
-    <link>https://guide-to-devops.github.io/blog/%EC%98%B5%EC%A0%80%EB%B2%84%EB%B9%8C%EB%A6%AC%ED%8B%B0%EC%9D%98-%EB%82%98%EC%B9%A8%EB%B0%98%EC%9D%B4-%EB%90%98%EC%96%B4%EC%A3%BC%EB%8A%94-%EC%A7%80%ED%91%9C%EB%93%A4---SLI,-SLO,-Error-Budget</link>
-    <guid>https://guide-to-devops.github.io/blog/%EC%98%B5%EC%A0%80%EB%B2%84%EB%B9%8C%EB%A6%AC%ED%8B%B0%EC%9D%98-%EB%82%98%EC%B9%A8%EB%B0%98%EC%9D%B4-%EB%90%98%EC%96%B4%EC%A3%BC%EB%8A%94-%EC%A7%80%ED%91%9C%EB%93%A4---SLI,-SLO,-Error-Budget</guid>
-    <description>본 아티클 내용에 들어가기 앞서, 여러분들께 한 가지 소식을 공유하고자 합니다. 다가오는 11월 21일 코엑스 컨퍼런스센터에서 개최되는 와탭랩스의 2025 WhaTap Observe Summit에서 제가 발표자로 참여하게 되었습니다. 해당 컨퍼런스는 옵저버빌리티와 AI 활용 등에 대한 인사이트를 나누는 다양한 세션들로 구성되어있는데요.</description>
+    <link>https://guide-to-devops.github.io/blog/sli-slo-error-budget-for-observability</link>
+    <guid>https://guide-to-devops.github.io/blog/sli-slo-error-budget-for-observability</guid>
+    <description>옵저버빌리티는 최근 점점 더 주목을 받고 있는 키워드입니다. 시스템에 문제가 발생할 때 시스템 상태를 확인하는 모니터링과 달리, 시스템에 발생하는 문제의 근본 원인을 미리 파악하는 것이 옵저버빌리티의 목적이기 때문일 텐데요. 그래서 옵저버빌리티는 모니터링 도구는 물론, 팀 차원의 체계적인 접근이 필수인 영역입니다.</description>
     <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>서버리스의 탄생과 최근 트렌드</title>
