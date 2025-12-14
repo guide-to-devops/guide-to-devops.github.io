@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Google DORA 팀이 밝혀낸 AI를 잘 도입한 조직들의 특징: 정책편</title>
+    <link>https://guide-to-devops.github.io/blog/dora-ai-capabilities-model-for-policy</link>
+    <guid>https://guide-to-devops.github.io/blog/dora-ai-capabilities-model-for-policy</guid>
+    <description>설문에 참여한 개발자의 90% 이상이 AI와 함께 일하고 있다는 Google의 2025년 소프트웨어 개발 리포트가 공개되었습니다. 이런 조사 결과를 보면 이미 우리가 AI와 협업하는 것에 익숙해졌음을 체감합니다. AI를 쓰는 게 효율적이라고 해서 써보니 좋은 것 같긴 하는데… 문득 이런 궁금증이 생긴 적 없으신가요? 우리 팀이 AI를 잘 쓰고 있는 게 맞을까? 그래서 이번에 조직의 AI 도입에 필요한 역량을 구체화한 체크리스트를 소개하고 어떻게 사용할지 알려드리겠습니다.</description>
+    <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Kubernetes 애플리케이션에 안정성 더하기</title>
     <link>https://guide-to-devops.github.io/blog/how-to-make-k8s-application-available</link>
     <guid>https://guide-to-devops.github.io/blog/how-to-make-k8s-application-available</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/why-us-air-force-use-k8s-for-f-16</guid>
     <description>Kubernetes은 이제 사실상 표준이 된 컨테이너 오케스트레이션 툴입니다. 개발한 서비스를 컨테이너로 배포하는 IT 기업이라면 이미 Kubernetes를 사용하고 있거나, 도입을 고려한 경우가 대부분이라는 뜻인데요. 실제로 CNCF와 Red Hat의 분석에 따르면 최근 컨테이너 오케스트레이션 시장의 92%를 Kubernetes가 점유하고 있고, Kubernetes를 사용 중인 조직의 91%는 1000명 이상의 직원을 고용 중인 대기업이라고 합니다.</description>
     <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>CNCF의 GitOps 공인 자격증에 최근 자주 출제되는 GitOps 핵심 용어</title>
-    <link>https://guide-to-devops.github.io/blog/main-keywords-for-cncf-gitops-certificate</link>
-    <guid>https://guide-to-devops.github.io/blog/main-keywords-for-cncf-gitops-certificate</guid>
-    <description>이번 아티클에선 지난 글에 이어 CGOA 자격증에서 정말 자주 등장하는 핵심 용어를 살펴보려합니다. GitOps는 DevOps를 실현하는 방법론으로 최근 등장한 개념이다보니 GitOps 용어들이 낯설 수도 있는데요. 너무 많은 것을 단순 나열하기 보단, GitOps 도입에 꼭 알아야 할 핵심 용어 5가지를 엄선해서 이해하기 쉽게 정리해보겠습니다.</description>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
