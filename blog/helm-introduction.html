@@ -149,13 +149,12 @@ pre:hover > .expand-button {
 <hr/>
 <h2 id="manifest-파일들을-템플릿으로-관리하는-helm-chart"><strong>Manifest 파일들을 템플릿으로 관리하는 Helm chart</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#manifest-파일들을-템플릿으로-관리하는-helm-chart" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
 <p><img src="https://i.imgur.com/J9PuhrF.png" alt="Helm은 Kubernetes 배포를 위한 패키지 매니저 툴입니다."/></p>
-<p>Helm은 Kubernetes 배포를 위한 패키지 매니저 툴입니다.</p>
 <p><strong>Helm</strong>은 Kubernetes에 배포되는 프로젝트의 각 리소스의 Manifest를 Command-Line 환경에서 생성하거나 공유, 버전 관리까지 해주는 <strong>Kubernetes 패키지 매니저 툴</strong>입니다. </p>
-<p><strong>Helm</strong>의 주요 컨셉은 <strong>Chart</strong>와 <strong>Config</strong>, <strong>Release</strong>인데요.</p>
+<p>Helm의 주요 컨셉은 <strong>Chart</strong>와 <strong>Config</strong>, <strong>Release</strong>인데요.</p>
 <ul>
 <li><strong>Chart</strong>는 Kubernetes 리소스 배포에 필요한 Manifest 템플릿 등의 소스코드의 모음을 의미합니다.</li>
-<li><strong>Config</strong>는 Kubernetes 리소스 배포에 필요한 Configuration 값들이 명시되는 파일을 의미합니다. Helm으로 Chart가 배포될 때 <strong>Config</strong>의 값이 <strong>Chart</strong>와 결합됩니다.</li>
-<li><strong>Release</strong>는 <strong>Helm</strong>의 배포 단위입니다. <strong>Chart</strong>와 <strong>Config</strong>가 결합되어 Kubernetes 클러스터상에 배포 및 실행되는 상태를 하나의 <strong>Release</strong>라고 봅니다.</li>
+<li><strong>Config</strong>는 Kubernetes 리소스 배포에 필요한 Configuration 값들이 명시되는 파일을 의미합니다. Helm으로 Chart가 배포될 때 Config의 값이 Chart와 결합됩니다.</li>
+<li><strong>Release</strong>는 <strong>Helm</strong>의 배포 단위입니다. Chart와 Config가 결합되어 Kubernetes 클러스터상에 배포 및 실행되는 상태를 하나의 Release라고 봅니다.</li>
 </ul>
 <p><strong>Chart</strong>는 리소스 배포에 필요한 파일들이 포함된 디렉토리 개념이며, <strong>Chart</strong>에 포함되는 파일들은 아래와 같습니다.</p>
 <ul>
