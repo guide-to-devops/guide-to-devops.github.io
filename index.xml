@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Google DORA 팀이 밝혀낸 AI를 잘 도입한 조직들의 특징: 개발편</title>
+    <link>https://guide-to-devops.github.io/blog/dora-ai-capabilities-model-for-development</link>
+    <guid>https://guide-to-devops.github.io/blog/dora-ai-capabilities-model-for-development</guid>
+    <description>최근 Google의 DORA(DevOps Research and Assessment) 팀에서 AI 역량 모델을 공개했습니다. AI를 도입 후 높은 성과를 낸 조직들을 분석하고, 심층 인터뷰와 전문가 자문을 통해 AI를 성공적으로 도입한 조직들의 특성을 7가지로 정리한 것인데요.</description>
+    <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Google DORA 팀이 밝혀낸 AI를 잘 도입한 조직들의 특징: 정책편</title>
     <link>https://guide-to-devops.github.io/blog/dora-ai-capabilities-model-for-policy</link>
     <guid>https://guide-to-devops.github.io/blog/dora-ai-capabilities-model-for-policy</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/3-argo-project-tool</guid>
     <description>Argo CD는 GitOps 툴로서 공개 이후부터 꾸준히 안정적인 성과를 보여주고 있습니다. 2025년에 실시된 Argo 프로젝트 공식 설문에 따르면, 응답자의 60%가 Argo CD를 최소 2년 넘게 프로덕션으로 운영 중이라고 하네요. (출처: blog.argoproj.io/argo-cd-2025-user-survey-results-ab045f7d5d9a) Argo CD가 무엇인지 아직 모르시거나 헷갈리시는 분들을 위해 설명드리자면, Argo CD는 GitOps 방법론을 실현할 수 있는 조정 엔진(Reconciliation Engine)입니다.</description>
     <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>미 공군이 F-16 전투기에 Kubernetes를 띄운 사연</title>
-    <link>https://guide-to-devops.github.io/blog/why-us-air-force-use-k8s-for-f-16</link>
-    <guid>https://guide-to-devops.github.io/blog/why-us-air-force-use-k8s-for-f-16</guid>
-    <description>Kubernetes은 이제 사실상 표준이 된 컨테이너 오케스트레이션 툴입니다. 개발한 서비스를 컨테이너로 배포하는 IT 기업이라면 이미 Kubernetes를 사용하고 있거나, 도입을 고려한 경우가 대부분이라는 뜻인데요. 실제로 CNCF와 Red Hat의 분석에 따르면 최근 컨테이너 오케스트레이션 시장의 92%를 Kubernetes가 점유하고 있고, Kubernetes를 사용 중인 조직의 91%는 1000명 이상의 직원을 고용 중인 대기업이라고 합니다.</description>
-    <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
