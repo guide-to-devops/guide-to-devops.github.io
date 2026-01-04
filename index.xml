@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>오픈소스 MLOps 플랫폼 MLFlow를 minikube 클러스터에 배포하기</title>
+    <link>https://guide-to-devops.github.io/blog/deploying-mlflow-on-minikube</link>
+    <guid>https://guide-to-devops.github.io/blog/deploying-mlflow-on-minikube</guid>
+    <description>요즘 MLOps라는 키워드가 점점 더 큰 인기를 얻고 있습니다. AI 시장이 폭발적으로 커지면서 AI 모델을 잘 학습시키고 관리할 필요가 생겼기 때문일 텐데요. 아마 DevOps에 대해 아신다면 MLOps도 금방 이해하실 수 있을 겁니다. ML(머신러닝)과 Ops(운영)의 합성어로, 머신러닝 모델을 개발하고 운영하는 전체 사이클을 효율적으로 갖추기 위한 방법론이거든요.</description>
+    <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>2025 Aiden&#039;s Lab 아티클 연말 결산</title>
     <link>https://guide-to-devops.github.io/blog/2025-aidens-lab-newsletter-rewind</link>
     <guid>https://guide-to-devops.github.io/blog/2025-aidens-lab-newsletter-rewind</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/sli-slo-error-budget-for-observability</guid>
     <description>옵저버빌리티는 최근 점점 더 주목을 받고 있는 키워드입니다. 시스템에 문제가 발생할 때 시스템 상태를 확인하는 모니터링과 달리, 시스템에 발생하는 문제의 근본 원인을 미리 파악하는 것이 옵저버빌리티의 목적이기 때문일 텐데요. 그래서 옵저버빌리티는 모니터링 도구는 물론, 팀 차원의 체계적인 접근이 필수인 영역입니다.</description>
     <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>서버리스의 탄생과 최근 트렌드</title>
-    <link>https://guide-to-devops.github.io/blog/serverless-trend-and-knative</link>
-    <guid>https://guide-to-devops.github.io/blog/serverless-trend-and-knative</guid>
-    <description>IT 업계에서 서버리스라는 키워드는 계속해서 주목받고 있습니다. Grand View Research의 조사에 따르면, 전세계적으로 서버리스 컴퓨팅 시장 규모 추정치는 270억 달러로, 2030년에는 520억 달러 수준까지 확대될 것으로 전망한다고 하는데요. (출처: www.grandviewresearch.com/industry-analysis/serverless-computing-market-report) 이렇게 나날이 인기를 얻고있는 서버리스는 어떻게 등장하게 되었을까요? 또 지금의 서버리스는 어떤 흐름으로 나아가고 있을까요? 이번 아티클에선 서버리스의 등장과 발전, 현재 트렌드를 알아보겠습니다.</description>
-    <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
