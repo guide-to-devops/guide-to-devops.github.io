@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>MLflow로 머신러닝 모델 학습하고 웹 UI에서 확인하기</title>
+    <link>https://guide-to-devops.github.io/blog/training-and-registering-model-with-mlflow</link>
+    <guid>https://guide-to-devops.github.io/blog/training-and-registering-model-with-mlflow</guid>
+    <description>지난 아티클에서 우리는 minikube 클러스터에 오픈소스 MLOps 플랫폼 MLflow와 두 개의 저장소(PostgreSQL과 MinIO)를 배포하고 연동하는 실습을 진행했습니다. 이제 MLflow를 좀 더 MLOps답게 사용해보겠습니다. 이번 실습 가이드를 진행하고 나면… 본 아티클을 읽으시면서 (직접 따라하시면 더욱 좋고요!) 자연스럽게 몸에 익히게 되는 것이 있습니다.</description>
+    <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>오픈소스 MLOps 플랫폼 MLFlow를 minikube 클러스터에 배포하기</title>
     <link>https://guide-to-devops.github.io/blog/deploying-mlflow-on-minikube</link>
     <guid>https://guide-to-devops.github.io/blog/deploying-mlflow-on-minikube</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/gitops-related-method-and-deployment-starategies</guid>
     <description>소프트웨어 기업 Octopus Deploy의 2025년 설문 조사에 따르면, 이미 GitOps를 도입한 조직 중 93%가 GitOps를 계속 또는 확대해서 도입할 예정이라고 응답했다고 합니다. 이렇듯 GitOps는 조직 입장에서도 안정성을 인정받는 트렌드라고 볼 수 있는데요.</description>
     <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>옵저버빌리티의 나침반이 되어주는 SLI, SLO, Error Budget</title>
-    <link>https://guide-to-devops.github.io/blog/sli-slo-error-budget-for-observability</link>
-    <guid>https://guide-to-devops.github.io/blog/sli-slo-error-budget-for-observability</guid>
-    <description>옵저버빌리티는 최근 점점 더 주목을 받고 있는 키워드입니다. 시스템에 문제가 발생할 때 시스템 상태를 확인하는 모니터링과 달리, 시스템에 발생하는 문제의 근본 원인을 미리 파악하는 것이 옵저버빌리티의 목적이기 때문일 텐데요. 그래서 옵저버빌리티는 모니터링 도구는 물론, 팀 차원의 체계적인 접근이 필수인 영역입니다.</description>
-    <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
