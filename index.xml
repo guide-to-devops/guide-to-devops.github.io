@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Kind로 로컬 Kubernetes 환경 구축하기</title>
+    <link>https://guide-to-devops.github.io/blog/how-to-build-k8s-cluster-with-kind</link>
+    <guid>https://guide-to-devops.github.io/blog/how-to-build-k8s-cluster-with-kind</guid>
+    <description>제가 매주 뉴스레터와 블로그로 공유하는 아티클은 크게 3가지 유형으로 나눠집니다. (아마 눈치채셨을지도 모르겠습니다.) 직접 따라해볼 수 있는 DevOps/MLOps 실습 가이드 최신 DevOps/MLOps 기술 소식 DevOps/MLOps 관련 흥미로운 이야기 그 중에서도 실습 가이드는 로컬에서도 쉽게 따라하며 경험할 수 있어서 많은 분들이 긍정적인 피드백을 주고 계신데요.</description>
+    <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>MLflow로 머신러닝 모델 학습하고 버전별로 확인해보기</title>
     <link>https://guide-to-devops.github.io/blog/adjusting-parameter-for-model-with-mlflow</link>
     <guid>https://guide-to-devops.github.io/blog/adjusting-parameter-for-model-with-mlflow</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/slo-dashboard-for-effective-observability</guid>
     <description>옵저버빌리티를 구축할 때 어떤 툴을 사용해야 할지 비교하는 것도 중요하지만, 팀이 모니터링 대시보드를 통해 알아야 할 것을 정의하는 것 역시 무척 중요합니다. 그래서 지난 글에서 SLI(Service Level Indicator)와 SLO(Service Level Object), Error Budget에 대해 소개해드렸는데요.</description>
     <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Tesla와 Ford가 구현하는 MLOps</title>
-    <link>https://guide-to-devops.github.io/blog/tesla-ford-mlops</link>
-    <guid>https://guide-to-devops.github.io/blog/tesla-ford-mlops</guid>
-    <description>올해 테슬라는 AI 분야에서 혁신을 향해 달리고 있습니다. FSD(Full Self Driving, 완전자율주행) 모델의 데이터 개선과 자율주행 택시 서비스 Robotaxi가 대표적인 예인데요. 이렇게 AI가 자동차 산업에서 특히 더 각광받는 이유는, 자율주행이라는 꿈을 현실로 구현해줄 기술이기 때문일 것입니다.</description>
-    <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
