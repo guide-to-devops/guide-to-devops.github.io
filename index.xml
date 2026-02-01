@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>ML 모델을 쉽게 배포할 수 있는 KServe 알아보기</title>
+    <link>https://guide-to-devops.github.io/blog/introducing-kserve</link>
+    <guid>https://guide-to-devops.github.io/blog/introducing-kserve</guid>
+    <description>2026년에 들어서면서 MLflow 실습 가이드를 연달아 공유드렸습니다. 제가 MLflow를 학습하고 써보면서 얻은 지식을 저의 관점을 곁들여 이해하기 쉽게 전달해드리고 싶었거든요. 혹시 이전 아티클을 아직 안 보셨다면 꼭 확인해보세요. MLOps와 MLflow에 대해 더 깊이 이해하는 데에 도움이 될 겁니다.</description>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Kind로 로컬 Kubernetes 환경 구축하기</title>
     <link>https://guide-to-devops.github.io/blog/how-to-build-k8s-cluster-with-kind</link>
     <guid>https://guide-to-devops.github.io/blog/how-to-build-k8s-cluster-with-kind</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/2025-whatap-observe-summit-session-summary</guid>
     <description>11월 21일 코엑스에서 진행된 2025 WhaTap Observe Summit 컨퍼런스에 다녀왔습니다. 제가 오후 발표 세션 중 하나를 맡아 연사자로 참석한 컨퍼런스여서 더욱 의미가 있던 행사였는데요. 흥미롭고 유익했던 컨퍼런스였던 만큼, 오전 Keynote 세션과 제 발표 내용을 함께 정리해서 공유합니다.</description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>SLO 대시보드로 효과적인 옵저버빌리티 시작하기</title>
-    <link>https://guide-to-devops.github.io/blog/slo-dashboard-for-effective-observability</link>
-    <guid>https://guide-to-devops.github.io/blog/slo-dashboard-for-effective-observability</guid>
-    <description>옵저버빌리티를 구축할 때 어떤 툴을 사용해야 할지 비교하는 것도 중요하지만, 팀이 모니터링 대시보드를 통해 알아야 할 것을 정의하는 것 역시 무척 중요합니다. 그래서 지난 글에서 SLI(Service Level Indicator)와 SLO(Service Level Object), Error Budget에 대해 소개해드렸는데요.</description>
-    <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

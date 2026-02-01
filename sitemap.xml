@@ -182,6 +182,9 @@
     <loc>https://guide-to-devops.github.io/blog/Liveness,-Readiness,-Startup-Probe-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EB%B9%84%EA%B5%90</loc>
     <lastmod>2024-07-09T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://guide-to-devops.github.io/blog/introducing-kserve</loc>
+    <lastmod>2026-02-02T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://guide-to-devops.github.io/blog/adjusting-parameter-for-model-with-mlflow</loc>
     <lastmod>2026-01-19T00:00:00.000Z</lastmod>
   </url><url>
