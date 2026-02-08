@@ -248,6 +248,9 @@
     <loc>https://guide-to-devops.github.io/blog/%EB%8D%94-%EC%95%88%EC%A0%84%ED%95%9C-CICD-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0---SLSA-%ED%91%9C%EC%A4%80</loc>
     <lastmod>2024-10-06T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://guide-to-devops.github.io/blog/deploying-kserve-in-local-k8s-cluster</loc>
+    <lastmod>2026-02-09T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://guide-to-devops.github.io/blog/3-progressive-deployment-strategies</loc>
     <lastmod>2023-11-06T00:00:00.000Z</lastmod>
   </url><url>
