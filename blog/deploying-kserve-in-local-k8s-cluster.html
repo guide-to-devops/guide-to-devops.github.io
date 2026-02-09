@@ -317,19 +317,19 @@ pre:hover > .expand-button {
 <li>Gateway API를 사용도록 설정</li>
 <li>KServe가 사용할 Gateway 지정 (기본 생성되는 Gateway로)</li>
 </ul>
-<blockquote class="callout info" data-callout="info">
+<blockquote class="callout danger" data-callout="danger">
 <div class="callout-title">
                   <div class="callout-icon"></div>
-                  <div class="callout-title-inner"><p>KServe 공식문서의 Helm 설치 명령어 오류 </p></div>
+                  <div class="callout-title-inner"><p>KServe 공식문서 Helm 설치 명령어에 오류가 있습니다. </p></div>
                   
                 </div>
 <div class="callout-content">
-<p>KServe 공식문서에서는 <code>kserve.controller.deploymentMode</code> 옵션의 값을 <code>Standard</code>로 설정하라고 나와있습니다.
+<p><a href="https://kserve.github.io/website/docs/admin-guide/kubernetes-deployment#3-install-kserve" class="external">KServe 공식문서<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>에서는 <code>kserve.controller.deploymentMode</code> 옵션의 값을 <code>Standard</code>로 설정하라고 나와있습니다.
 하지만 해당 옵션으로 배포한 KServe 컨트롤러 Pod는 <code>BackOff</code> 상태로 계속 재시작을 시도하더라고요.
 왜 오류가 나지? 의아함을 느끼며 <code>kubectl logs</code> 명령어로 해당 Pod의 로그를 살펴봤습니다.
 Deployment Mode가 잘못 되었다면서, 지원하는 Mode는 <code>Serverless</code>, <code>RawDeployment</code>, <code>ModelMesh</code>라는 메시지가 출력되었더군요…
 조사해보니 Kubernetes Deployment로 배포하는 모드의 설정값이 현재 <code>Standard</code>가 아닌 <code>RawDeployment</code>인 것을 알게 되었습니다.
-그래서 명령어 수정 후 다시 배포해보니 정상 동작!
+그래서 명령어 수정 후 다시 배포해보니.. 정상 동작!
 아마 공식 문서는 업데이트가 덜 된 것으로 보입니다.</p>
 </div>
 </blockquote>
