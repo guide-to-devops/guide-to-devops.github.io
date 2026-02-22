@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>안드로이드 폰으로 가벼운 홈 서버를 구축해보자</title>
+    <link>https://guide-to-devops.github.io/blog/web-server-hosted-on-android-device</link>
+    <guid>https://guide-to-devops.github.io/blog/web-server-hosted-on-android-device</guid>
+    <description>DevOps 엔지니어 K씨에게는 언제부터인지 어렴풋이 품게 된 로망이 하나 있었다. ‘나만의 홈 서버를 구축하고 싶다.’ 하지만 서버를 새로 사기엔 재정적인 부담이 있었기에 기약 없는 희망사항으로만 간직하고 있던 것이었다. 어느날 K씨는 가정 내에서 사용할 가계부 대시보드가 필요해 AI 툴로 어렵지 않게 제작했다.</description>
+    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>KServe의 InferenceService 직접 배포하고 테스트해보기</title>
     <link>https://guide-to-devops.github.io/blog/deploying-inferenceservice-of-kserve-in-local-k8s-cluster</link>
     <guid>https://guide-to-devops.github.io/blog/deploying-inferenceservice-of-kserve-in-local-k8s-cluster</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/dora-ai-capabilities-model-for-development</guid>
     <description>최근 Google의 DORA(DevOps Research and Assessment) 팀에서 AI 역량 모델을 공개했습니다. AI를 도입 후 높은 성과를 낸 조직들을 분석하고, 심층 인터뷰와 전문가 자문을 통해 AI를 성공적으로 도입한 조직들의 특성을 7가지로 정리한 것인데요.</description>
     <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Google DORA 팀이 밝혀낸 AI를 잘 도입한 조직들의 특징: 정책편</title>
-    <link>https://guide-to-devops.github.io/blog/dora-ai-capabilities-model-for-policy</link>
-    <guid>https://guide-to-devops.github.io/blog/dora-ai-capabilities-model-for-policy</guid>
-    <description>설문에 참여한 개발자의 90% 이상이 AI와 함께 일하고 있다는 Google의 2025년 소프트웨어 개발 리포트가 공개되었습니다. 이런 조사 결과를 보면 이미 우리가 AI와 협업하는 것에 익숙해졌음을 체감합니다. AI를 쓰는 게 효율적이라고 해서 써보니 좋은 것 같긴 하는데… 문득 이런 궁금증이 생긴 적 없으신가요? 우리 팀이 AI를 잘 쓰고 있는 게 맞을까? 그래서 이번에 조직의 AI 도입에 필요한 역량을 구체화한 체크리스트를 소개하고 어떻게 사용할지 알려드리겠습니다.</description>
-    <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
