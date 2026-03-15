@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>GitOps의 Pull과 Push 방식 중 어떤 걸 사용해야 할까?</title>
+    <link>https://guide-to-devops.github.io/blog/pull-and-push-method-for-gitops</link>
+    <guid>https://guide-to-devops.github.io/blog/pull-and-push-method-for-gitops</guid>
+    <description>GitOps는 자동화를 통해 배포가 빠르고 Git이라는 버전 컨트롤 툴로 안정적인 운영이 가능해 현재 많은 사랑을 받고 있는 DevOps 방법론 중 하나이다. 그리고 개발자가 Git 저장소에 코드를 Push하는 것만으로 배포에 참여할 수 있게 하고, 운영자는 Git을 통해 모든 배포 상태를 명확히 파악할 수 있도록 하여 두 팀 간의 협업을 촉진한다는 장점도 있다.</description>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>AI 에이전트 시대에 필요한 가드레일 역할을 해줄 PaC(Policy as Code)</title>
     <link>https://guide-to-devops.github.io/blog/pac-for-guardrail-of-ai-agent</link>
     <guid>https://guide-to-devops.github.io/blog/pac-for-guardrail-of-ai-agent</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/training-and-registering-model-with-mlflow</guid>
     <description>지난 아티클에서 우리는 minikube 클러스터에 오픈소스 MLOps 플랫폼 MLflow와 두 개의 저장소(PostgreSQL과 MinIO)를 배포하고 연동하는 실습을 진행했습니다. 이제 MLflow를 좀 더 MLOps답게 사용해보겠습니다. 이번 실습 가이드를 진행하고 나면… 본 아티클을 읽으시면서 (직접 따라하시면 더욱 좋고요!) 자연스럽게 몸에 익히게 되는 것이 있습니다.</description>
     <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>오픈소스 MLOps 플랫폼 MLFlow를 minikube 클러스터에 배포하기</title>
-    <link>https://guide-to-devops.github.io/blog/deploying-mlflow-on-minikube</link>
-    <guid>https://guide-to-devops.github.io/blog/deploying-mlflow-on-minikube</guid>
-    <description>요즘 MLOps라는 키워드가 점점 더 큰 인기를 얻고 있습니다. AI 시장이 폭발적으로 커지면서 AI 모델을 잘 학습시키고 관리할 필요가 생겼기 때문일 텐데요. 아마 DevOps에 대해 아신다면 MLOps도 금방 이해하실 수 있을 겁니다. ML(머신러닝)과 Ops(운영)의 합성어로, 머신러닝 모델을 개발하고 운영하는 전체 사이클을 효율적으로 갖추기 위한 방법론이거든요.</description>
-    <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
