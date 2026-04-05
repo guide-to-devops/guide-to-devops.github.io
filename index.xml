@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>외부 트래픽이 Ingress를 거쳐 Kubernetes Pod로 전달되는 과정을 알아보자</title>
+    <link>https://guide-to-devops.github.io/blog/how-traffic-reach-to-pod-thorough-ingress</link>
+    <guid>https://guide-to-devops.github.io/blog/how-traffic-reach-to-pod-thorough-ingress</guid>
+    <description>최근 동료 개발자들에게 Kubernetes Service와 Ingress에 대해 설명하는 시간을 가졌다. Kubernetes Service와 Ingress에 대한 개념은 알아도, 어떻게 외부 트래픽이 Pod까지 전달되는지 제대로 이해하지 못한 사람들이 많았다. 그래서 각 구성요소와 트래픽의 전달 과정을 단계별로 설명하니 이해하기 좋았다는 평을 받았고, 이번 아티클에서 그 내용을 정리해보려 한다.</description>
+    <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>컨테이너 런타임 보안이 중요한 이유</title>
     <link>https://guide-to-devops.github.io/blog/why-container-runtime-security</link>
     <guid>https://guide-to-devops.github.io/blog/why-container-runtime-security</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/how-to-build-k8s-cluster-with-kind</guid>
     <description>제가 매주 뉴스레터와 블로그로 공유하는 아티클은 크게 3가지 유형으로 나눠집니다. (아마 눈치채셨을지도 모르겠습니다.) 직접 따라해볼 수 있는 DevOps/MLOps 실습 가이드 최신 DevOps/MLOps 기술 소식 DevOps/MLOps 관련 흥미로운 이야기 그 중에서도 실습 가이드는 로컬에서도 쉽게 따라하며 경험할 수 있어서 많은 분들이 긍정적인 피드백을 주고 계신데요.</description>
     <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>MLflow로 머신러닝 모델 학습하고 버전별로 확인해보기</title>
-    <link>https://guide-to-devops.github.io/blog/adjusting-parameter-for-model-with-mlflow</link>
-    <guid>https://guide-to-devops.github.io/blog/adjusting-parameter-for-model-with-mlflow</guid>
-    <description>MLflow는 ML 모델 학습 중에 생성되는 데이터들을 저장하고, Web UI에서 버전별로 관리할 수 있는 오픈소스 MLOps 플랫폼입니다. 우리는 지난 아티클에서 로컬 Kubernetes 클러스터에 배포한 MLflow를 사용해서… 하이퍼파라미터와 성능 지표, ML 모델을 저장한 다음 Web UI에 접속해서 저장된 데이터들을 꼼꼼히 살펴봤는데요.</description>
-    <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
