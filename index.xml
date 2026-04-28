@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>왜 minikube를 실행할 때 Docker가 필요할까?</title>
+    <link>https://guide-to-devops.github.io/blog/why-is-doker-required-with-minikube</link>
+    <guid>https://guide-to-devops.github.io/blog/why-is-doker-required-with-minikube</guid>
+    <description>minikube는 로컬 환경에서 실습과 테스트가 가능한 Kubernetes 클러스터를 손쉽게 만들 수 있는 툴이다. 이미 많은 사람들이 사용하고 있고, Aiden’s Lab의 실습 가이드 중에서도 minikube를 활용한 것들이 제법 많다. Kubernetes를 공부하기 시작한 동료 개발자들에게 실습과 테스트할 때 사용하라고 minikube를 소개한 적이 있었는데, 그 중 한 명이 minikube를 설치하다가 이런 질문을 했다.</description>
+    <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Kubernetes Namespace를 제대로 사용하는 방법</title>
     <link>https://guide-to-devops.github.io/blog/how-to-use-k8s-namespace</link>
     <guid>https://guide-to-devops.github.io/blog/how-to-use-k8s-namespace</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/deploying-inferenceservice-of-kserve-in-local-k8s-cluster</guid>
     <description>KServe는 LLM 모델부터 예측형 ML 모델까지 Kubernetes 환경에 쉽게 배포시켜주는 리소스입니다. MLOps에 빠지지 않는 툴이기 때문에 지난 2회에 걸쳐 아티클로 다뤘는데요. ML 모델을 쉽게 배포할 수 있는 KServe 알아보기 로컬 Kind 클러스터에 KServe 배포하기 이제 KServe의 핵심인 InferenceService 리소스를 직접 배포하고 ML 모델 추론 테스트까지 해보겠습니다.</description>
     <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>로컬 Kind 클러스터에 KServe 배포하기</title>
-    <link>https://guide-to-devops.github.io/blog/deploying-kserve-in-local-k8s-cluster</link>
-    <guid>https://guide-to-devops.github.io/blog/deploying-kserve-in-local-k8s-cluster</guid>
-    <description>KServe는 LLM 모델부터 예측형 ML 모델까지 Kubernetes 환경에 쉽게 배포시켜주는 툴입니다. 그래서 머신러닝 모델을 개발하고 서비스하는 회사와 조직에서 정말 많이 사용하고 있죠. 지난 아티클에서는 KServe의 핵심을 살펴봤는데요. 이번에는 KServe를 직접 로컬 Kubernetes 환경에 배포하는 실습을 진행하겠습니다.</description>
-    <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
