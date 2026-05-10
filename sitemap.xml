@@ -245,6 +245,9 @@
     <loc>https://guide-to-devops.github.io/blog/kube-bench-%EC%86%8C%EA%B0%9C</loc>
     <lastmod>2024-03-17T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://guide-to-devops.github.io/blog/what-happen-in-worker-nodes-when-kubectl-apply-run</loc>
+    <lastmod>2026-05-11T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://guide-to-devops.github.io/blog/what-happen-in-control-plane-when-kubectl-apply-run</loc>
     <lastmod>2026-05-04T00:00:00.000Z</lastmod>
   </url><url>
