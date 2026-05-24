@@ -200,6 +200,9 @@
     <loc>https://guide-to-devops.github.io/blog/introducing-kserve</loc>
     <lastmod>2026-02-02T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://guide-to-devops.github.io/blog/why-mlops-on-k8s-and-why-kubeflow</loc>
+    <lastmod>2026-05-25T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://guide-to-devops.github.io/blog/adjusting-parameter-for-model-with-mlflow</loc>
     <lastmod>2026-01-19T00:00:00.000Z</lastmod>
   </url><url>
