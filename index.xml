@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>CNCF를 졸업한 OpenTelemetry</title>
+    <link>https://guide-to-devops.github.io/blog/opentelemetry-graduation-from-cncf</link>
+    <guid>https://guide-to-devops.github.io/blog/opentelemetry-graduation-from-cncf</guid>
+    <description>2026년 5월 21일, 클라우드 네이티브 생태계를 구축하는 CNCF(Cloud Native Computing Foundation)에서 OpenTelemetry의 졸업(Graduation)을 발표했다. CNCF는 클라우드 네이티브와 관련된 다양한 오픈소스 프로젝트를 관리하고 있지만, 모든 프로젝트가 같은 지위를 가지고 있는 것은 아니다.</description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>MLOps 플랫폼으로 Kubeflow를 사용하는 이유</title>
     <link>https://guide-to-devops.github.io/blog/why-mlops-on-k8s-and-why-kubeflow</link>
     <guid>https://guide-to-devops.github.io/blog/why-mlops-on-k8s-and-why-kubeflow</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/why-container-runtime-security</guid>
     <description>우리가 생각하는 안전한 컨테이너란 무엇일까? 이미 알려진 취약점(CVE)을 스캔하는 것은 최근 많이 활용되는 대표적인 컨테이너 보안 활동 중 하나이다. 컨테이너 이미지를 배포하기 전에 보안 취약점이 이미지 내에 존재하는지 외부 툴을 이용해 스캔을 하는 것으로, 이미지 자체에 내포된 위험을 줄일 수 있다는 점에서 유의미한 보안 활동이다.</description>
     <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>GitOps의 Pull과 Push 방식 중 어떤 걸 사용해야 할까?</title>
-    <link>https://guide-to-devops.github.io/blog/pull-and-push-method-for-gitops</link>
-    <guid>https://guide-to-devops.github.io/blog/pull-and-push-method-for-gitops</guid>
-    <description>GitOps는 자동화를 통해 배포가 빠르고 Git이라는 버전 컨트롤 툴로 안정적인 운영이 가능해 현재 많은 사랑을 받고 있는 DevOps 방법론 중 하나이다. 그리고 개발자가 Git 저장소에 코드를 Push하는 것만으로 배포에 참여할 수 있게 하고, 운영자는 Git을 통해 모든 배포 상태를 명확히 파악할 수 있도록 하여 두 팀 간의 협업을 촉진한다는 장점도 있다.</description>
-    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
