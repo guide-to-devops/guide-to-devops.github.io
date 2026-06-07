@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>플랫폼 엔지니어링에서 빼놓을 수 없는 Backstage</title>
+    <link>https://guide-to-devops.github.io/blog/what-is-backstage-and-idp</link>
+    <guid>https://guide-to-devops.github.io/blog/what-is-backstage-and-idp</guid>
+    <description>최근 기술 블로그나 컨퍼런스에서 자주 등장하는 키워드를 하나 꼽으라면 플랫폼 엔지니어링(Platform Engineering)을 고르고 싶다. 개발과 운영을 하나의 흐름으로 한다는 DevOps의 중심 철학은 이미 보편적으로 인정되어 널리 퍼졌다. 하지만 마이크로서비스 아키텍처(MSA)가 보편화되고 클라우드 네이티브 생태계가 커지면서 개발자들의 부담은 점점 더 무거워졌다.</description>
+    <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>CNCF를 졸업한 OpenTelemetry</title>
     <link>https://guide-to-devops.github.io/blog/opentelemetry-graduation-from-cncf</link>
     <guid>https://guide-to-devops.github.io/blog/opentelemetry-graduation-from-cncf</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/how-traffic-reach-to-pod-thorough-ingress</guid>
     <description>최근 동료 개발자들에게 Kubernetes Service와 Ingress에 대해 설명하는 시간을 가졌다. Kubernetes Service와 Ingress에 대한 개념은 알아도, 어떻게 외부 트래픽이 Pod까지 전달되는지 제대로 이해하지 못한 사람들이 많았다. 그래서 각 구성요소와 트래픽의 전달 과정을 단계별로 설명하니 이해하기 좋았다는 평을 받았고, 이번 아티클에서 그 내용을 정리해보려 한다.</description>
     <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>컨테이너 런타임 보안이 중요한 이유</title>
-    <link>https://guide-to-devops.github.io/blog/why-container-runtime-security</link>
-    <guid>https://guide-to-devops.github.io/blog/why-container-runtime-security</guid>
-    <description>우리가 생각하는 안전한 컨테이너란 무엇일까? 이미 알려진 취약점(CVE)을 스캔하는 것은 최근 많이 활용되는 대표적인 컨테이너 보안 활동 중 하나이다. 컨테이너 이미지를 배포하기 전에 보안 취약점이 이미지 내에 존재하는지 외부 툴을 이용해 스캔을 하는 것으로, 이미지 자체에 내포된 위험을 줄일 수 있다는 점에서 유의미한 보안 활동이다.</description>
-    <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
