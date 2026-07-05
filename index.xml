@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>나만의 E-잉크 마크다운 에디터 개발기</title>
+    <link>https://guide-to-devops.github.io/blog/my-inkmarker-development-log</link>
+    <guid>https://guide-to-devops.github.io/blog/my-inkmarker-development-log</guid>
+    <description>필자는 매주 글을 쓰다보니 글쓰기 툴에 관심이 많은 편이다. 그러던 어느날 프리라이트 트래블러라는 기기를 알게 되었다. 아래 사진을 보면 알겠지만, 이북리더기처럼 E-잉크로 화면을 표시하는 글쓰기 툴이다. (출처: Freewrite 공식 홈페이지) 안 그래도 노트북이 갈수록 무겁게 느껴지고 눈도 금방 피로해지던 필자에게 E-잉크 디스플레이의 휴대용 에디터는 너무나 매력적으로 느껴졌다.</description>
+    <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Backstage와 GitHub 연동하기</title>
     <link>https://guide-to-devops.github.io/blog/how-to-auth-with-github-in-backstage</link>
     <guid>https://guide-to-devops.github.io/blog/how-to-auth-with-github-in-backstage</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/what-happen-in-control-plane-when-kubectl-apply-run</guid>
     <description>kubectl은 Kubernetes 클러스터를 관리하기 위해 개발된 툴이다. kubectl의 apply 명령어는 Pod나 Deployment 같은 Kubernetes 리소스를 배포할 때 많이들 사용한다. 하지만 우리 솔직해져보자. kubectl apply 명령어를 실행한 이후부터 클러스터 내부에서 일어나는 일에 대해 얼마나 잘 알고 있는가? 클러스터를 운영하는데 왜 이런 것까지 알아야 하는지 궁금할 수도 있다.</description>
     <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>왜 minikube를 실행할 때 Docker가 필요할까?</title>
-    <link>https://guide-to-devops.github.io/blog/why-is-doker-required-with-minikube</link>
-    <guid>https://guide-to-devops.github.io/blog/why-is-doker-required-with-minikube</guid>
-    <description>minikube는 로컬 환경에서 실습과 테스트가 가능한 Kubernetes 클러스터를 손쉽게 만들 수 있는 툴이다. 이미 많은 사람들이 사용하고 있고, Aiden’s Lab의 실습 가이드 중에서도 minikube를 활용한 것들이 제법 많다. Kubernetes를 공부하기 시작한 동료 개발자들에게 실습과 테스트할 때 사용하라고 minikube를 소개한 적이 있었는데, 그 중 한 명이 minikube를 설치하다가 이런 질문을 했다.</description>
-    <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
