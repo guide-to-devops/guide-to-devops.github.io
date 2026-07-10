@@ -9,7 +9,7 @@
     <title>나만의 E-잉크 마크다운 에디터 개발기</title>
     <link>https://guide-to-devops.github.io/blog/my-inkmarker-development-log</link>
     <guid>https://guide-to-devops.github.io/blog/my-inkmarker-development-log</guid>
-    <description>필자는 매주 글을 쓰다보니 글쓰기 툴에 관심이 많은 편이다. 그러던 어느날 프리라이트 트래블러라는 기기를 알게 되었다. 아래 사진을 보면 알겠지만, 이북리더기처럼 E-잉크로 화면을 표시하는 글쓰기 툴이다. (출처: Freewrite 공식 홈페이지) 안 그래도 노트북이 갈수록 무겁게 느껴지고 눈도 금방 피로해지던 필자에게 E-잉크 디스플레이의 휴대용 에디터는 너무나 매력적으로 느껴졌다.</description>
+    <description>나는 글쓰기 툴에 관심이 많은 편이다. 어느날 프리라이트 트래블러라는 기기를 알게 되었다. 아래 사진을 보면 알겠지만, 이북리더기처럼 E-잉크로 화면을 표시하는 글쓰기 툴이다. (출처: Freewrite 공식 홈페이지) 안 그래도 노트북이 갈수록 무겁게 느껴지고 눈도 금방 피로해지던 나에게 E-잉크 디스플레이의 휴대용 에디터는 너무나 매력적으로 느껴졌다.</description>
     <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>Backstage와 GitHub 연동하기</title>
