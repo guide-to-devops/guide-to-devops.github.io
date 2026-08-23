@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>새로운 기술을 도입하면 정말 생산성이 올라갈까?</title>
+    <link>https://guide-to-devops.github.io/blog/new-tech-and-productivity</link>
+    <guid>https://guide-to-devops.github.io/blog/new-tech-and-productivity</guid>
+    <description>새로운 기술은 언제나 가슴을 뛰게 만든다 혹시 그런 적 있지 않은가? 지금 잘나가는 새로운 기술이나 툴을 우리 팀에 도입하지 않으면 생산성을 놓칠 것 같은 기분이 들 때 말이다. 특히 스타트업 같은 소규모 신생 조직에서 일하는 개발자라면 더더욱 그럴 수 있다. 나도 7년 전 스타트업에서 새로운 기술 도입에 앞장섰던 경험이 있다.</description>
+    <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>AI 에이전트 오케스트레이션과 컨테이너 오케스트레이션</title>
     <link>https://guide-to-devops.github.io/blog/AI-agent-orchestration-and-container-orchestration</link>
     <guid>https://guide-to-devops.github.io/blog/AI-agent-orchestration-and-container-orchestration</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/how-to-build-and-use-backstage-in-local</guid>
     <description>Backstage에 대해 살펴봤던 지난 아티클을 기억하는가? 개발 조직의 IDP(내부 개발자 플랫폼) 생성을 도와주는 오픈소스 프레임워크이며 CNCF에서 적극 밀어주는 프로젝트라고 소개한 바 있다. 글로벌 IDP 시장의 대표적인 프로젝트이라고 해도, 우리 조직에 맞는 시스템이어야 도입하는 의미가 있다.</description>
     <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>GitHub Actions 워크플로우로 Kubernetes 테스트하기</title>
-    <link>https://guide-to-devops.github.io/blog/how-to-k8s-test-with-github-actions</link>
-    <guid>https://guide-to-devops.github.io/blog/how-to-k8s-test-with-github-actions</guid>
-    <description>GitHub Actions는 GitHub의 자동화 워크플로우 서비스로, CI/CD 파이프라인 구축에 자주 사용된다. 필자도 GitHub Actions를 통해 매주 일요일에는 제텔카스텐 메모 정리를, 월요일에는 기술 아티클 토픽 조사를 도와주는 AI 자동화 워크플로우를 만들어서 사용 중이다.</description>
-    <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
