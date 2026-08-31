@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>개발자에게 자격증은 필요할까?</title>
+    <link>https://guide-to-devops.github.io/blog/engineer-and-certificate</link>
+    <guid>https://guide-to-devops.github.io/blog/engineer-and-certificate</guid>
+    <description>‘개발자에게 자격증이 도움이 될까?’ 개발자로 일하면서 최근 5년간 국내 공인 자격증부터 Linux 재단의 Cloud Native 자격증, AWS 클라우드 자격증까지 10종이 넘는 자격증을 땄지만 여전히 고민이 되는 질문 중 하나이다. 개개인의 상황과 경우가 모두 다르기 때문에 딱 잘라서 말하기 어렵기 때문일 것이다.</description>
+    <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>새로운 기술을 도입하면 정말 생산성이 올라갈까?</title>
     <link>https://guide-to-devops.github.io/blog/new-tech-and-productivity</link>
     <guid>https://guide-to-devops.github.io/blog/new-tech-and-productivity</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/how-to-auth-with-github-in-backstage</guid>
     <description>지난 아티클에서 Backstage 앱을 로컬 환경에 빌드하고 주요 컴포넌트를 이해하기 위해 관련된 설정 파일과 소스코드를 살펴보는 실습을 진행했다. 이번에는 Backstage 앱과 현재 소유 중인 GitHub 계정을 연동해보겠다. 본 아티클에서 다룰 주제는 2가지이다. GitHub OAuth로 Backstage 앱에 로그인하도록 연동 샘플 데이터가 아닌 개발용 catalog-info.yaml에 카탈로그 엔티티 추가 이전에 로컬 빌드한 Backstage 앱을 이어서 사용할 예정이다.</description>
     <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Backstage를 로컬 환경에 빌드해서 살펴보기</title>
-    <link>https://guide-to-devops.github.io/blog/how-to-build-and-use-backstage-in-local</link>
-    <guid>https://guide-to-devops.github.io/blog/how-to-build-and-use-backstage-in-local</guid>
-    <description>Backstage에 대해 살펴봤던 지난 아티클을 기억하는가? 개발 조직의 IDP(내부 개발자 플랫폼) 생성을 도와주는 오픈소스 프레임워크이며 CNCF에서 적극 밀어주는 프로젝트라고 소개한 바 있다. 글로벌 IDP 시장의 대표적인 프로젝트이라고 해도, 우리 조직에 맞는 시스템이어야 도입하는 의미가 있다.</description>
-    <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
