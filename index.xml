@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>왜 개발자에게 글쓰기가 중요하다고 하는 걸까?</title>
+    <link>https://guide-to-devops.github.io/blog/why-is-writing-important-to-developers</link>
+    <guid>https://guide-to-devops.github.io/blog/why-is-writing-important-to-developers</guid>
+    <description>아마 개발자라면 글쓰기의 중요성에 대해 한 번쯤 들어봤을 것이다. 거기에 설득되어 글을 쓰기 시작한 사람이 바로 나다. 개발 지식을 내재화해서 업무에 더 잘 활용할 수 있다고 하니 시작하지 않을 이유가 없었다. 약간의 고민 끝에 DevOps 관련 아티클을 발행하는 주간 뉴스레터를 시작했고, 어느새 3년째 운영 중이다.</description>
+    <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>개발자에게 자격증은 필요할까?</title>
     <link>https://guide-to-devops.github.io/blog/engineer-and-certificate</link>
     <guid>https://guide-to-devops.github.io/blog/engineer-and-certificate</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/my-inkmarker-development-log</guid>
     <description>나는 글쓰기 툴에 관심이 많은 편이다. 어느날 프리라이트 트래블러라는 기기를 알게 되었다. 아래 사진을 보면 알겠지만, 이북리더기처럼 E-잉크로 화면을 표시하는 글쓰기 툴이다. (출처: Freewrite 공식 홈페이지) 안 그래도 노트북이 갈수록 무겁게 느껴지고 눈도 금방 피로해지던 나에게 E-잉크 디스플레이의 휴대용 에디터는 너무나 매력적으로 느껴졌다.</description>
     <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Backstage와 GitHub 연동하기</title>
-    <link>https://guide-to-devops.github.io/blog/how-to-auth-with-github-in-backstage</link>
-    <guid>https://guide-to-devops.github.io/blog/how-to-auth-with-github-in-backstage</guid>
-    <description>지난 아티클에서 Backstage 앱을 로컬 환경에 빌드하고 주요 컴포넌트를 이해하기 위해 관련된 설정 파일과 소스코드를 살펴보는 실습을 진행했다. 이번에는 Backstage 앱과 현재 소유 중인 GitHub 계정을 연동해보겠다. 본 아티클에서 다룰 주제는 2가지이다. GitHub OAuth로 Backstage 앱에 로그인하도록 연동 샘플 데이터가 아닌 개발용 catalog-info.yaml에 카탈로그 엔티티 추가 이전에 로컬 빌드한 Backstage 앱을 이어서 사용할 예정이다.</description>
-    <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
