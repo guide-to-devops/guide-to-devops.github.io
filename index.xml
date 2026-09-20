@@ -6,6 +6,12 @@
       <description>최근 10 건 on 🔭Aiden&#039;s Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>보안 관련 이벤트를 관리하는 SIEM에 대해 알아보자</title>
+    <link>https://guide-to-devops.github.io/blog/what-is-siem</link>
+    <guid>https://guide-to-devops.github.io/blog/what-is-siem</guid>
+    <description>SIEM(Security Information and Event Management, 보안 정보 및 이벤트 관리)은 보안과 관련된 로그와 이벤트를 관리하고 모니터링, 분석하는 시스템을 일컫는다. 로그 관리 시스템이라고 하면 ELK 스택이나 Grafana가 익숙할 것이다.</description>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>보안이 더더욱 중요해진 시점에 다시 살펴봐야 할 TLS 인증서와 cert-manager</title>
     <link>https://guide-to-devops.github.io/blog/tls-cert-and-cert-manager</link>
     <guid>https://guide-to-devops.github.io/blog/tls-cert-and-cert-manager</guid>
@@ -59,12 +65,6 @@
     <guid>https://guide-to-devops.github.io/blog/technical-debt-in-ai-driven-development</guid>
     <description>서비스를 개발하다보면 더 나은 설계가 가능함에도 일정 등으로 미루게 되는 경우가 있다. 이를 기술 부채라고 말한다. 언젠가는 상환(해결)해야 할 빚이라는 뜻이다. 그저 미래에 해결해야 할 문제라면 부채라는 표현을 사용하지 않았을 것이다. 우리가 집이나 자동차를 사기 위해 대출을 받으면 원금을 갚을 때까지 이자를 낸다.</description>
     <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>내가 Kubernetes 비관론에 마음이 복잡했던 이유</title>
-    <link>https://guide-to-devops.github.io/blog/why-k8s-pessimism-makes-me-worried</link>
-    <guid>https://guide-to-devops.github.io/blog/why-k8s-pessimism-makes-me-worried</guid>
-    <description>최근 Medium이나 LinkedIn 피드를 둘러보면 ‘Kubernetes는 이제 끝났다’, ‘오히려 운영 비용만 증가시키는 Kubernetes’라는 제목의 아티클이 꽤 여럿 보인다. 수 년간 Kubernetes를 꾸준히 공부하고 애용하던 나로서는 그런 글들을 마주할 때마다 마음이 뒤숭숭했다.</description>
-    <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
