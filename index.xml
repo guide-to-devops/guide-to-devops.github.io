@@ -12,7 +12,7 @@
     <description>SIEM(Security Information and Event Management, 보안 정보 및 이벤트 관리)은 보안과 관련된 로그와 이벤트를 관리하고 모니터링, 분석하는 시스템을 일컫는다. 로그 관리 시스템이라고 하면 ELK 스택이나 Grafana가 익숙할 것이다.</description>
     <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>보안이 더더욱 중요해진 시점에 다시 살펴봐야 할 TLS 인증서와 cert-manager</title>
+    <title>제대로 살펴봐야 할 TLS 인증서와 cert-manager</title>
     <link>https://guide-to-devops.github.io/blog/tls-cert-and-cert-manager</link>
     <guid>https://guide-to-devops.github.io/blog/tls-cert-and-cert-manager</guid>
     <description>최근 여러 서비스에서 보안 사고가 급증하면서 보안의 중요성이 대두되고 있다. 보안이라는 분야가 워낙 넓지만 그 중에서도 정말 많이 사용되는 것이 HTTP 관련 보안이다. 그래서 이번 글에서는 우리가 필수로 알아야 할 TLS 인증서를 알아보고, Kubernetes 클러스터 내부에서는 TLS 인증서를 어떻게 관리하는지 cert-manager를 통해 살펴보겠다.</description>
